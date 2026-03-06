@@ -6,8 +6,6 @@ venv/
 .env
 *.egg-info/
 
-# Database (keep locally, do not publish)
-appartclaude.db
 
 # Playwright browsers
 .playwright/

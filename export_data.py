@@ -26,8 +26,9 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from models import Listing
 
+db_path = ROOT / "appartclaude.db"
 engine = create_engine(
-    "sqlite:///" + str(ROOT / "appartclaude.db"),
+    "sqlite:///" + str(db_path),
     connect_args={"check_same_thread": False},
 )
 Session = sessionmaker(bind=engine)
@@ -60,14 +61,23 @@ def serialize(l: Listing) -> dict:
     }
 
 
-with Session() as db:
-    listings = (
-        db.query(Listing)
-        .filter(Listing.is_active != False)  # noqa: E712
-        .order_by(Listing.price)
-        .all()
-    )
-    data = [serialize(l) for l in listings]
+data = []
+
+if not db_path.exists():
+    print("! database file not found, exporting empty snapshot")
+else:
+    with Session() as db:
+        try:
+            listings = (
+                db.query(Listing)
+                .filter(Listing.is_active != False)  # noqa: E712
+                .order_by(Listing.price)
+                .all()
+            )
+            data = [serialize(l) for l in listings]
+        except Exception as e:  # sqlite3.OperationalError etc
+            print(f"! failed to read listings from database ({e}), exporting empty snapshot")
+            data = []
 
 out = ROOT / "frontend" / "public" / "data.json"
 out.parent.mkdir(parents=True, exist_ok=True)
