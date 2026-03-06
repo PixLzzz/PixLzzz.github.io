@@ -25,6 +25,15 @@ jobs:
         run: npm ci
         working-directory: frontend
 
+      - name: Export data snapshot
+        run: |
+          python export_data.py
+
+      - name: Export data snapshot
+        # export_data.py writes frontend/public/data.json which is included
+        # in the static build; running from repo root so Python can find the DB
+        run: python export_data.py
+
       - name: Build (static mode)
         run: npm run build
         working-directory: frontend
