@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/home/pixl/Dev/AppartClaude/venv/bin/python -c \"import httpx; print\\('httpx ok'\\)\" 2>&1)",
+      "Bash(ls *.db 2>/dev/null && echo \"db exists\" || echo \"no db yet\")",
+      "Bash(/home/pixl/Dev/AppartClaude/venv/bin/python -c \"\nimport sqlite3\nconn = sqlite3.connect\\('appartclaude.db'\\)\ncur = conn.cursor\\(\\)\ncols = [row[1] for row in cur.execute\\('PRAGMA table_info\\(listings\\)'\\)]\nprint\\('columns:', cols\\)\nconn.close\\(\\)\n\")",
+      "Bash(/home/pixl/Dev/AppartClaude/venv/bin/python -c \"\nimport sqlite3\nconn = sqlite3.connect\\('appartclaude.db'\\)\ncur = conn.cursor\\(\\)\ntry:\n    cur.execute\\('ALTER TABLE listings ADD COLUMN latitude REAL'\\)\n    cur.execute\\('ALTER TABLE listings ADD COLUMN longitude REAL'\\)\n    conn.commit\\(\\)\n    print\\('columns added'\\)\nexcept Exception as e:\n    print\\(f'error: {e}'\\)\nconn.close\\(\\)\n\")",
+      "Bash(npm run build 2>&1 | tail -20)",
+      "Bash(/home/pixl/Dev/AppartClaude/venv/bin/python -c \"import main; print\\('backend OK'\\)\" 2>&1)",
+      "Bash(cd /home/pixl/Dev/AppartClaude && /home/pixl/Dev/AppartClaude/venv/bin/python -c \"import main; print\\('backend OK'\\)\" 2>&1)",
+      "Bash(cd /home/pixl/Dev/AppartClaude/frontend && npm run build 2>&1 | tail -10)",
+      "Bash(dir)",
+      "Bash(type \"\\\\wsl$\\\\Ubuntu\\\\home\\\\pixl\\\\Dev\\\\AppartClaude\\\\frontend\\\\node_modules\\\\@react-leaflet\\\\core\\\\package.json\")",
+      "Bash(findstr /i \"version react\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(wsl bash -c \"cd /home/pixl/Dev/AppartClaude && git status\")",
+      "Bash(wsl.exe bash -c \"cd /home/pixl/Dev/AppartClaude && git status 2>&1\")",
+      "Bash(cmd /c \"wsl bash -c \"\"cd /home/pixl/Dev/AppartClaude && git status 2>&1\"\"\")",
+      "Bash(git -C \"\\\\\\\\wsl$\\\\Ubuntu\\\\home\\\\pixl\\\\Dev\\\\AppartClaude\" status)",
+      "Bash(git -C \"\\\\wsl$\\\\Ubuntu\\\\home\\\\pixl\\\\Dev\\\\AppartClaude\" status)",
+      "Bash(timeout 8 wsl bash /home/pixl/Dev/AppartClaude/_git_setup.sh)",
+      "Bash(echo \"exit:$?\")"
+    ]
+  }
+}
