@@ -12,12 +12,6 @@
       "runtimeExecutable": "wsl",
       "runtimeArgs": ["bash", "-c", "cd /home/pixl/Dev/AppartClaude/frontend && npm install && npm run dev -- --host"],
       "port": 5174
-    },
-    {
-      "name": "git-run",
-      "runtimeExecutable": "wsl",
-      "runtimeArgs": ["bash", "-c", "cd /home/pixl/Dev/AppartClaude && python3 _git_run.py 2>&1"],
-      "port": 19999
     }
   ]
 }

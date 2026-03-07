@@ -17,6 +17,16 @@ frontend/dist/
 # data.json is committed so GitHub Actions can deploy it
 # (do NOT add frontend/public/data.json here)
 
+# Temp helper scripts (used by Claude to run commands via preview server)
+_git_run.py
+_git_setup.sh
+_cron_install.py
+_cron_remove.py
+cron_scrape.sh
+
+# Logs
+scrape_cron.log
+
 # OS
 .DS_Store
 Thumbs.db
