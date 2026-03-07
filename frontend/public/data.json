@@ -1,5 +1,24 @@
 [
   {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/11413323",
+    "title": "Condo for sale",
+    "price": 514999.0,
+    "address": "3535, Avenue Papineau, apt. 815 \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE306F52DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": null,
+    "longitude": null,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
     "id": 20,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/28680361",
@@ -98,6 +117,25 @@
     "description": "Condo à vendre – Bien être et attachement assuré!\nSuperbe condo très lumineux (35 %...",
     "first_seen": "2026-03-05T20:50:09",
     "last_seen": "2026-03-06T16:37:17"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/19930175",
+    "title": "Condo for sale",
+    "price": 529900.0,
+    "address": "315, Rue Villeneuve Est, apt. 302 \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DEB5AB80DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": null,
+    "longitude": null,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 69,
@@ -217,7 +255,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE70C3CFDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 64,
@@ -257,7 +295,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE76E49DDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 91,
@@ -397,7 +435,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3A8411DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 67,
@@ -440,6 +478,25 @@
     "last_seen": "2026-03-06T16:37:17"
   },
   {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/12854867",
+    "title": "Condo for sale",
+    "price": 569000.0,
+    "address": "283B, Rue Roy Est \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE35DCAFDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5206107,
+    "longitude": -73.5713176,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
     "id": 11,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/24078912",
@@ -457,7 +514,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7DFBFBDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 31,
@@ -517,7 +574,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE926DA6DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-06T16:37:13"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 90,
@@ -537,7 +594,26 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE36F224DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-06T16:37:13"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/16849780",
+    "title": "Condo for sale",
+    "price": 575000.0,
+    "address": "4711, Rue Garnier \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3C2D08DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5322755,
+    "longitude": -73.5791389,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 8,
@@ -597,7 +673,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7F7EDADDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 94,
@@ -757,7 +833,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE38A3D8DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:32:34",
-    "last_seen": "2026-03-05T21:32:34"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 87,
@@ -777,7 +853,26 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE36582FDDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-06T16:37:13"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14585673",
+    "title": "Condo for sale",
+    "price": 599000.0,
+    "address": "6082, Rue Waverly \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE706E0FDDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5269468,
+    "longitude": -73.6073885,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 17,
@@ -877,7 +972,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3F50BFDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-06T15:59:51"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 25,
@@ -900,6 +995,25 @@
     "last_seen": "2026-03-06T16:37:17"
   },
   {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15521011",
+    "title": "Condo for sale",
+    "price": 615000.0,
+    "address": "5340, Rue Chabot \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5C6151DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5380718,
+    "longitude": -73.5824498,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
     "id": 15,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/16863573",
@@ -917,7 +1031,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE339F05DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 27,
@@ -1040,6 +1154,25 @@
     "last_seen": "2026-03-05T21:32:34"
   },
   {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/13990908",
+    "title": "Condo for sale",
+    "price": 625000.0,
+    "address": "5907, Rue Jeanne-Mance \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE78BCE3DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.525287,
+    "longitude": -73.6064958,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
     "id": 9,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/18521121",
@@ -1077,7 +1210,26 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DEE3C7F3DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/22466657",
+    "title": "Condo for sale",
+    "price": 629000.0,
+    "address": "5017, Avenue de l'Esplanade \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3D090ADDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5208401,
+    "longitude": -73.593531,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 19,
@@ -1297,7 +1449,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3CBDC6DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 89,
@@ -1357,7 +1509,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE510EA9DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 86,
@@ -1557,7 +1709,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE30EAB4DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-06T16:00:02"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 80,
@@ -1697,7 +1849,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE37E3C1DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
     "id": 18,
@@ -1898,5 +2050,24 @@
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
     "last_seen": "2026-03-05T20:50:22"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/18841937",
+    "title": "Condo for sale",
+    "price": 749900.0,
+    "address": "5394, Rue Saint-Urbain \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE386ED0DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5238827,
+    "longitude": -73.5987425,
+    "first_seen": "2026-03-07T23:13:05.892900+00:00",
+    "last_seen": "2026-03-07T23:13:05.892900+00:00"
   }
 ]
