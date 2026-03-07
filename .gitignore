@@ -22,6 +22,7 @@ _git_run.py
 _git_setup.sh
 _cron_install.py
 _cron_remove.py
+_export_and_commit.py
 cron_scrape.sh
 
 # Logs
