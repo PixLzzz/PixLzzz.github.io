@@ -1,4 +1,4 @@
-"""DuProprio.com scraper — Plateau-Mont-Royal."""
+"""DuProprio.com scraper — Plateau-Mont-Royal + Rosemont."""
 import logging
 import math
 import re
@@ -11,9 +11,11 @@ from scrapers.base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-# DuProprio neighbourhood page for Le Plateau-Mont-Royal
-# Mile-End is geographically within Plateau-Mont-Royal in their system
-BASE_URL = "https://duproprio.com/fr/montreal/le-plateau-mont-royal"
+# DuProprio neighbourhood pages
+SEARCH_URLS = [
+    ("https://duproprio.com/fr/montreal/le-plateau-mont-royal", "Plateau-Mont-Royal"),
+    ("https://duproprio.com/fr/montreal/rosemont-la-petite-patrie", "Rosemont-La Petite-Patrie"),
+]
 ITEMS_PER_PAGE = 11
 
 
@@ -27,29 +29,30 @@ class DuProprioScraper(BaseScraper):
         }
 
         with httpx.Client(follow_redirects=True, timeout=20, headers=headers) as c:
-            # Get page 1 to find total count
-            r = c.get(BASE_URL)
-            soup = self._parse(r.text)
-            total_el = soup.select_one(
-                ".search-results-listings-header__properties-found__number"
-            )
-            total = int(total_el.text.strip()) if total_el else 0
-            logger.info(f"DuProprio: {total} total listings in Plateau-Mont-Royal")
-            num_pages = math.ceil(total / ITEMS_PER_PAGE) if total else 1
+            for base_url, neighborhood in SEARCH_URLS:
+                # Get page 1 to find total count
+                r = c.get(base_url)
+                soup = self._parse(r.text)
+                total_el = soup.select_one(
+                    ".search-results-listings-header__properties-found__number"
+                )
+                total = int(total_el.text.strip()) if total_el else 0
+                logger.info(f"DuProprio: {total} total listings in {neighborhood}")
+                num_pages = math.ceil(total / ITEMS_PER_PAGE) if total else 1
 
-            for page in range(1, num_pages + 1):
-                url = BASE_URL if page == 1 else f"{BASE_URL}?pageNumber={page}"
-                try:
-                    r = c.get(url)
-                    soup = self._parse(r.text)
-                    items = self._extract(soup)
-                    logger.info(f"DuProprio page {page}: {len(items)} items")
-                    for item in items:
-                        if item["url"] not in seen:
-                            seen.add(item["url"])
-                            results.append(item)
-                except Exception as e:
-                    logger.error(f"DuProprio page {page} error: {e}")
+                for page in range(1, num_pages + 1):
+                    url = base_url if page == 1 else f"{base_url}?pageNumber={page}"
+                    try:
+                        r = c.get(url)
+                        soup = self._parse(r.text)
+                        items = self._extract(soup, neighborhood)
+                        logger.info(f"DuProprio {neighborhood} page {page}: {len(items)} items")
+                        for item in items:
+                            if item["url"] not in seen:
+                                seen.add(item["url"])
+                                results.append(item)
+                    except Exception as e:
+                        logger.error(f"DuProprio page {page} error: {e}")
 
         logger.info(f"DuProprio: returning {len(results)} listings")
         return results
@@ -57,7 +60,7 @@ class DuProprioScraper(BaseScraper):
     def _parse(self, html: str) -> BeautifulSoup:
         return BeautifulSoup(html, "lxml")
 
-    def _extract(self, soup: BeautifulSoup) -> List[Dict]:
+    def _extract(self, soup: BeautifulSoup, neighborhood: str = "Plateau-Mont-Royal") -> List[Dict]:
         items = []
         lis = soup.select("li.search-results-listings-list__item")
         for li in lis:
@@ -117,7 +120,7 @@ class DuProprioScraper(BaseScraper):
                 "title": "",
                 "price": self._parse_price(price_el.get_text() if price_el else ""),
                 "address": full_address,
-                "neighborhood": "Plateau-Mont-Royal",
+                "neighborhood": neighborhood,
                 "bedrooms": bedrooms,
                 "bathrooms": bathrooms,
                 "area_sqft": area_sqft,

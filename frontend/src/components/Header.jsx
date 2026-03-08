@@ -34,7 +34,7 @@ export default function Header({ stats, scrapeStatus, onScrapeStart, staticMode 
         <div>
           <h1 style={styles.title}>AppartClaude</h1>
           <p style={styles.subtitle}>
-            Plateau-Mont-Royal &amp; Mile-End &nbsp;·&nbsp; 500 000 $ – 750 000 $ &nbsp;·&nbsp; 2+ ch
+            Plateau-Mont-Royal &amp; Mile-End &amp; Rosemont &nbsp;·&nbsp; 500 000 $ – 750 000 $ &nbsp;·&nbsp; 2+ ch
           </p>
         </div>
 

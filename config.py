@@ -11,6 +11,11 @@ CRITERIA = {
         "Mile End",
         "Plateau Mont-Royal",
         "Plateau",
+        "Rosemont",
+        "Rosemont-La Petite-Patrie",
+        "Rosemont–La Petite-Patrie",
+        "La Petite-Patrie",
+        "Beaubien",
     ],
     "city": "Montreal",
 }

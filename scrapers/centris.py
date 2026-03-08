@@ -1,4 +1,4 @@
-"""Centris.ca scraper — Plateau-Mont-Royal / Mile-End."""
+"""Centris.ca scraper — Plateau-Mont-Royal / Mile-End / Rosemont."""
 import logging
 from typing import Dict, List
 
@@ -9,7 +9,8 @@ from scrapers.base import BROWSER_ARGS, BROWSER_ENV, BaseScraper, build_dns_rule
 logger = logging.getLogger(__name__)
 
 SEARCH_URLS = [
-    "https://www.centris.ca/en/properties~for-sale~montreal-le-plateau-mont-royal",
+    ("https://www.centris.ca/en/properties~for-sale~montreal-le-plateau-mont-royal", "Plateau-Mont-Royal"),
+    ("https://www.centris.ca/en/properties~for-sale~montreal-rosemont-la-petite-patrie", "Rosemont-La Petite-Patrie"),
 ]
 
 EXTRACT_JS = """() => {
@@ -56,7 +57,7 @@ class CentrisScraper(BaseScraper):
 
             # Dismiss cookie consent once
             try:
-                await page.goto(SEARCH_URLS[0], timeout=30_000)
+                await page.goto(SEARCH_URLS[0][0], timeout=30_000)
                 await page.wait_for_timeout(2000)
                 await page.click("#didomi-notice-agree-button", timeout=5000)
                 await page.wait_for_timeout(1000)
@@ -64,7 +65,7 @@ class CentrisScraper(BaseScraper):
             except Exception as e:
                 logger.warning(f"Centris: consent dismiss failed: {e}")
 
-            for url in SEARCH_URLS:
+            for url, neighborhood in SEARCH_URLS:
                 try:
                     logger.info(f"Centris: loading {url}")
                     await page.goto(url, timeout=30_000)
@@ -90,7 +91,7 @@ class CentrisScraper(BaseScraper):
                                 "title": item.get("title", ""),
                                 "price": self._parse_price(item.get("price", "")),
                                 "address": item.get("address", "").replace("\n", " ").strip(),
-                                "neighborhood": "Plateau-Mont-Royal",
+                                "neighborhood": neighborhood,
                                 "bedrooms": self._parse_int(item.get("bedrooms", "")),
                                 "bathrooms": self._parse_int(item.get("bathrooms", "")),
                                 "area_sqft": self._parse_area(item.get("area", "")),
