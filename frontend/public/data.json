@@ -36,7 +36,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE98BE07DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 23,
@@ -76,7 +76,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE38122BDDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 79,
@@ -155,7 +155,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE54BC4CDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 43,
@@ -275,7 +275,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE37380ADDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 71,
@@ -335,7 +335,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3A5334DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 37,
@@ -473,7 +473,26 @@
     "latitude": 45.5316512,
     "longitude": -73.5681157,
     "first_seen": "2026-03-08T01:47:45.767670+00:00",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/9514184",
+    "title": "Condo for sale",
+    "price": 559000.0,
+    "address": "5208, Avenue Henri-Julien, apt. 1 \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5DEB45DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": null,
+    "longitude": null,
+    "first_seen": "2026-03-08T06:37:42.624770+00:00",
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 67,
@@ -552,7 +571,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7DFBFBDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 31,
@@ -948,7 +967,7 @@
     "latitude": 45.5310576,
     "longitude": -73.566341,
     "first_seen": "2026-03-08T01:47:45.767670+00:00",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 17,
@@ -968,7 +987,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3FF158DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 33,
@@ -1008,7 +1027,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE306F0BDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 51,
@@ -1167,7 +1186,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5DE2F4DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 3,
@@ -1266,7 +1285,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE52A33ADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 65,
@@ -1365,7 +1384,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE39017EDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 56,
@@ -1385,7 +1404,26 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE73F398DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21266342",
+    "title": "Condo for sale",
+    "price": 639900.0,
+    "address": "4662, Rue Saint-Hubert \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3E94A3DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5268578,
+    "longitude": -73.5834957,
+    "first_seen": "2026-03-08T06:37:42.624770+00:00",
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 53,
@@ -1545,7 +1583,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3F1FD9DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-06T16:37:13"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 55,
@@ -1605,7 +1643,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE33C7B4DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:32:34",
-    "last_seen": "2026-03-05T21:32:34"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 57,
@@ -1744,7 +1782,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE544497DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 45,
@@ -1804,7 +1842,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE30EAB4DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 80,
@@ -1923,7 +1961,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7066B7DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-06T15:59:55"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 38,
@@ -1963,7 +2001,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE37E3C1DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 18,
@@ -1984,6 +2022,25 @@
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
     "last_seen": "2026-03-05T20:50:02"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/23543817",
+    "title": "Condo for sale",
+    "price": 740000.0,
+    "address": "4422B, Rue D'Iberville \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5D158ADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5414329,
+    "longitude": -73.5742886,
+    "first_seen": "2026-03-08T06:37:42.624770+00:00",
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 24,
@@ -2023,7 +2080,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7C5EC7DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+    "last_seen": "2026-03-08T06:37:42.624770+00:00"
   },
   {
     "id": 26,
