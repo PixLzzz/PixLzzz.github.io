@@ -121,6 +121,20 @@ async def main():
             print(f"ERROR: {name} scraper failed: {e}")
             traceback.print_exc()
 
+    # Retroactively geocode listings that have null coordinates
+    missing_geo = [v for v in existing.values() if not v.get("latitude") or not v.get("longitude")]
+    if missing_geo:
+        print(f"\nGeocoding {len(missing_geo)} listings with missing coordinates…")
+        for item in missing_geo:
+            lat, lng = await geocode(item.get("address", ""))
+            await asyncio.sleep(1.1)  # Nominatim: 1 req/s
+            item["latitude"] = lat
+            item["longitude"] = lng
+            if lat:
+                print(f"  ✓ {item.get('address', '')[:60]}")
+            else:
+                print(f"  ✗ {item.get('address', '')[:60]}")
+
     data = sorted(
         [v for v in existing.values() if v.get("is_active", True)],
         key=lambda x: x.get("price", 0),
