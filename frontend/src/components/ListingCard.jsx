@@ -60,7 +60,10 @@ export default function ListingCard({ listing }) {
 
         {listing.first_seen && (
           <div style={styles.date}>
-            Added {new Date(listing.first_seen + 'Z').toLocaleDateString('fr-CA')}
+            Added {(() => {
+              const d = new Date(listing.first_seen.endsWith('Z') || listing.first_seen.includes('+') ? listing.first_seen : listing.first_seen + 'Z')
+              return isNaN(d) ? '' : d.toLocaleDateString('fr-CA')
+            })()}
           </div>
         )}
       </div>

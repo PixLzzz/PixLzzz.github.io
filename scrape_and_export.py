@@ -11,6 +11,7 @@ Usage:
 import asyncio
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -33,21 +34,32 @@ from scrapers.remax import RemaxScraper
 DATA_JSON = ROOT / "frontend" / "public" / "data.json"
 
 
+def clean_address(address: str) -> str:
+    """Strip tabs, collapse whitespace, remove parenthesized city suffixes."""
+    addr = re.sub(r"\t+", " ", address)           # tabs → space
+    addr = re.sub(r"\s{2,}", " ", addr).strip()    # collapse whitespace
+    addr = re.sub(r"\s*\(.*?\)\s*$", "", addr)     # remove trailing "(Le Plateau-Mont-Royal)"
+    # Remove "apt." / "app." suffixes that confuse Nominatim
+    addr = re.sub(r",?\s*(?:apt|app)\.?\s*\d+\w*", "", addr, flags=re.IGNORECASE)
+    return addr.strip()
+
+
 async def geocode(address: str) -> tuple:
     if not address:
         return None, None
+    cleaned = clean_address(address)
     try:
         async with httpx.AsyncClient(timeout=8) as client:
             resp = await client.get(
                 "https://nominatim.openstreetmap.org/search",
-                params={"format": "json", "q": f"{address}, Montreal, Quebec, Canada", "limit": 1},
+                params={"format": "json", "q": f"{cleaned}, Montreal, Quebec, Canada", "limit": 1},
                 headers={"User-Agent": "AppartClaude/1.0"},
             )
             results = resp.json()
             if results:
                 return float(results[0]["lat"]), float(results[0]["lon"])
     except Exception as e:
-        print(f"  geocode error for '{address}': {e}")
+        print(f"  geocode error for '{cleaned}': {e}")
     return None, None
 
 
