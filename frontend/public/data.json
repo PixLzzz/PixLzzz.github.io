@@ -36,7 +36,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE98BE07DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 23,
@@ -96,7 +96,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3BDFD6DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 40,
@@ -375,7 +375,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE37DA8CDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 30,
@@ -436,6 +436,44 @@
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
     "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21968260",
+    "title": "Condo for sale",
+    "price": 559000.0,
+    "address": "5203, Rue Marquette \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE544B74DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5361759,
+    "longitude": -73.5834858,
+    "first_seen": "2026-03-08T01:47:45.767670+00:00",
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/28769319",
+    "title": "Condo for sale",
+    "price": 559000.0,
+    "address": "1954, Rue Rachel Est \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE8C8684DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5316512,
+    "longitude": -73.5681157,
+    "first_seen": "2026-03-08T01:47:45.767670+00:00",
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 67,
@@ -514,7 +552,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7DFBFBDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 31,
@@ -574,7 +612,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE926DA6DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 90,
@@ -613,7 +651,7 @@
     "latitude": 45.5322755,
     "longitude": -73.5791389,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 8,
@@ -674,6 +712,25 @@
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
     "last_seen": "2026-03-07T23:13:05.892900+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14951837",
+    "title": "Condo for sale",
+    "price": 579000.0,
+    "address": "3883, Rue Clark \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE9947CCDDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.515813,
+    "longitude": -73.5780055,
+    "first_seen": "2026-03-08T01:47:45.767670+00:00",
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 94,
@@ -753,7 +810,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3A8DD2DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 13,
@@ -875,6 +932,25 @@
     "last_seen": "2026-03-07T23:13:05.892900+00:00"
   },
   {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15461446",
+    "title": "Condo for sale",
+    "price": 599000.0,
+    "address": "1971, Rue Gauthier \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE8E0697DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5310576,
+    "longitude": -73.566341,
+    "first_seen": "2026-03-08T01:47:45.767670+00:00",
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+  },
+  {
     "id": 17,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15056666",
@@ -892,7 +968,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3FF158DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-05T20:50:02"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 33,
@@ -932,7 +1008,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE306F0BDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 51,
@@ -952,7 +1028,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7C31C8DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 4,
@@ -1011,7 +1087,7 @@
     "latitude": 45.5380718,
     "longitude": -73.5824498,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 15,
@@ -1151,7 +1227,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE52964BDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:32:34",
-    "last_seen": "2026-03-05T21:32:34"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "source": "centris",
@@ -1229,7 +1305,7 @@
     "latitude": 45.5208401,
     "longitude": -73.593531,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 19,
@@ -1592,6 +1668,25 @@
     "last_seen": "2026-03-05T21:32:34"
   },
   {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/24917472",
+    "title": "Condo for sale",
+    "price": 685000.0,
+    "address": "4332, Rue De Brébeuf \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE36C1D8DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5279017,
+    "longitude": -73.575436,
+    "first_seen": "2026-03-08T01:47:45.767670+00:00",
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
+  },
+  {
     "id": 54,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14450587",
@@ -1709,7 +1804,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE30EAB4DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 80,
@@ -1729,7 +1824,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE9C9FB8DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-05T21:00:47"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 95,
@@ -1770,6 +1865,25 @@
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
     "last_seen": "2026-03-05T21:00:47"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15022688",
+    "title": "Condo for sale",
+    "price": 699900.0,
+    "address": "3642, Avenue Henri-Julien \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3D5080DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5170359,
+    "longitude": -73.5713468,
+    "first_seen": "2026-03-08T01:47:45.767670+00:00",
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 5,
@@ -1909,7 +2023,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7C5EC7DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-06T16:37:13"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 26,
@@ -2009,7 +2123,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3CD7D9DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-05T20:50:22"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   },
   {
     "id": 34,
@@ -2068,6 +2182,6 @@
     "latitude": 45.5238827,
     "longitude": -73.5987425,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-07T23:13:05.892900+00:00"
+    "last_seen": "2026-03-08T01:47:45.767670+00:00"
   }
 ]
