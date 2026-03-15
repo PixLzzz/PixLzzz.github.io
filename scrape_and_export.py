@@ -35,12 +35,19 @@ DATA_JSON = ROOT / "frontend" / "public" / "data.json"
 
 
 def clean_address(address: str) -> str:
-    """Strip tabs, collapse whitespace, remove parenthesized city suffixes."""
+    """Clean address for Nominatim geocoding."""
     addr = re.sub(r"\t+", " ", address)           # tabs → space
     addr = re.sub(r"\s{2,}", " ", addr).strip()    # collapse whitespace
     addr = re.sub(r"\s*\(.*?\)\s*$", "", addr)     # remove trailing "(Le Plateau-Mont-Royal)"
-    # Remove "apt." / "app." suffixes that confuse Nominatim
-    addr = re.sub(r",?\s*(?:apt|app)\.?\s*\d+\w*", "", addr, flags=re.IGNORECASE)
+    # Remove "apt." / "app." with any suffix (A, B, PH11, A102, 101-102, etc.)
+    addr = re.sub(r",?\s*(?:apt|app|unit[ée]?)\.?\s*[A-Za-z0-9-]+", "", addr, flags=re.IGNORECASE)
+    # Remove trailing neighborhood/city (", Le Plateau-Mont-Royal", ", Montréal", etc.)
+    addr = re.sub(r",\s*(?:Le |La |L')?(?:Plateau|Rosemont|Petite-Patrie|Montr[ée]al|Mile[ -]End|Beaubien).*$", "", addr, flags=re.IGNORECASE)
+    # Civic number: "A-2187" or "109-5400" → keep the larger number (street number)
+    addr = re.sub(r"^[A-Za-z]+-(\d+)", r"\1", addr)           # A-2187 → 2187
+    addr = re.sub(r"^(\d+)-(\d{3,})", r"\2", addr)            # 109-5400 → 5400
+    # Remove letter suffix from civic numbers: "6872Z" → "6872"
+    addr = re.sub(r"^(\d+)[A-Za-z],", r"\1,", addr)
     return addr.strip()
 
 

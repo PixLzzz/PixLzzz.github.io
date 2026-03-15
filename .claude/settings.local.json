@@ -19,7 +19,10 @@
       "Bash(git -C \"\\\\\\\\wsl$\\\\Ubuntu\\\\home\\\\pixl\\\\Dev\\\\AppartClaude\" status)",
       "Bash(git -C \"\\\\wsl$\\\\Ubuntu\\\\home\\\\pixl\\\\Dev\\\\AppartClaude\" status)",
       "Bash(timeout 8 wsl bash /home/pixl/Dev/AppartClaude/_git_setup.sh)",
-      "Bash(echo \"exit:$?\")"
+      "Bash(echo \"exit:$?\")",
+      "Bash(gh run:*)",
+      "Bash(gh auth:*)",
+      "Bash(echo $PATH)"
     ]
   }
 }

@@ -58,7 +58,7 @@ class DuProprioScraper(BaseScraper):
         return results
 
     def _parse(self, html: str) -> BeautifulSoup:
-        return BeautifulSoup(html, "lxml")
+        return BeautifulSoup(html, "html.parser")
 
     def _extract(self, soup: BeautifulSoup, neighborhood: str = "Plateau-Mont-Royal") -> List[Dict]:
         items = []
