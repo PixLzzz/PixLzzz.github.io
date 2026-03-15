@@ -73,7 +73,7 @@
     "latitude": 45.5700387,
     "longitude": -73.5548999,
     "first_seen": "2026-03-10T01:42:23.689114+00:00",
-    "last_seen": "2026-03-13T01:46:18.609193+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -210,7 +210,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3BDFD6DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-13T12:50:17.303972+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -519,7 +519,7 @@
     "latitude": 45.5322347,
     "longitude": -73.6124022,
     "first_seen": "2026-03-10T01:42:23.689114+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -538,7 +538,7 @@
     "latitude": 45.541057,
     "longitude": -73.5979687,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 6,
@@ -829,7 +829,7 @@
     "latitude": 45.5723962,
     "longitude": -73.5536661,
     "first_seen": "2026-03-09T18:45:30.294105+00:00",
-    "last_seen": "2026-03-14T01:43:59.931987+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 58,
@@ -849,7 +849,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3A5334DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -868,7 +868,7 @@
     "latitude": 45.5298292,
     "longitude": -73.6107352,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-13T18:35:58.486196+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 37,
@@ -908,7 +908,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE37DA8CDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 30,
@@ -987,7 +987,7 @@
     "latitude": 45.5361759,
     "longitude": -73.5834858,
     "first_seen": "2026-03-08T01:47:45.767670+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -1355,7 +1355,7 @@
     "latitude": 45.5322755,
     "longitude": -73.5791389,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -1412,7 +1412,7 @@
     "latitude": 45.5406099,
     "longitude": -73.6004368,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
-    "last_seen": "2026-03-13T01:46:18.609193+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 49,
@@ -1508,7 +1508,7 @@
     "latitude": 45.5779051,
     "longitude": -73.5669609,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-13T18:35:58.486196+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 8,
@@ -1644,7 +1644,7 @@
     "latitude": 45.508042,
     "longitude": -73.5717587,
     "first_seen": "2026-03-13T18:35:58.486196+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -1721,7 +1721,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3F7ECFDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -1855,7 +1855,27 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-03-10T06:42:43.503644+00:00",
-    "last_seen": "2026-03-13T18:35:58.486196+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+  },
+  {
+    "id": 19,
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15128306",
+    "title": "Condo for sale",
+    "price": 595000.0,
+    "address": "5305, Avenue De Lorimier \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5391358,
+    "longitude": -73.5803882,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3A24DDDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "first_seen": "2026-03-05T20:50:02",
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -1972,7 +1992,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE276D7BDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 75,
@@ -2051,7 +2071,7 @@
     "latitude": 45.5269468,
     "longitude": -73.6073885,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2089,7 +2109,7 @@
     "latitude": 45.5314741,
     "longitude": -73.5668557,
     "first_seen": "2026-03-08T12:39:37.878402+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2108,7 +2128,7 @@
     "latitude": 45.5343031,
     "longitude": -73.5712359,
     "first_seen": "2026-03-08T12:39:37.878402+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2146,7 +2166,7 @@
     "latitude": 45.5510581,
     "longitude": -73.5787926,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2203,7 +2223,7 @@
     "latitude": 45.5723962,
     "longitude": -73.5536661,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2241,7 +2261,7 @@
     "latitude": 45.5320052,
     "longitude": -73.591677,
     "first_seen": "2026-03-11T18:49:04.929903+00:00",
-    "last_seen": "2026-03-14T01:43:59.931987+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2279,7 +2299,7 @@
     "latitude": 45.556758,
     "longitude": -73.5688278,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2417,7 +2437,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3F50BFDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-13T12:50:17.303972+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 25,
@@ -2456,7 +2476,7 @@
     "latitude": 45.5380718,
     "longitude": -73.5824498,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-13T06:46:11.352724+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2609,7 +2629,7 @@
     "latitude": 45.5374654,
     "longitude": -73.590429,
     "first_seen": "2026-03-14T12:41:27.771018+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 27,
@@ -2785,7 +2805,7 @@
     "latitude": 45.5368939,
     "longitude": -73.5988666,
     "first_seen": "2026-03-10T12:52:23.688723+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 9,
@@ -2844,7 +2864,7 @@
     "latitude": 45.5208401,
     "longitude": -73.593531,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -2863,27 +2883,7 @@
     "latitude": 45.551359,
     "longitude": -73.5583608,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-12T06:48:57.293242+00:00"
-  },
-  {
-    "id": 19,
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15128306",
-    "title": "Condo for sale",
-    "price": 635000.0,
-    "address": "5305, Avenue De Lorimier \t\t\t\t\t\t\tMontréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5391358,
-    "longitude": -73.5803882,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3A24DDDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 39,
@@ -2923,7 +2923,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE39017EDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-13T12:50:17.303972+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 56,
@@ -2962,7 +2962,7 @@
     "latitude": 45.5101511,
     "longitude": -73.5783226,
     "first_seen": "2026-03-14T06:40:49.214240+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -3137,7 +3137,7 @@
     "latitude": 45.5642124,
     "longitude": -73.5828379,
     "first_seen": "2026-03-10T01:42:23.689114+00:00",
-    "last_seen": "2026-03-13T18:35:58.486196+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -3271,7 +3271,7 @@
     "latitude": 45.5491735,
     "longitude": -73.5580364,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-13T12:50:17.303972+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 41,
@@ -3349,7 +3349,7 @@
     "latitude": 45.5361938,
     "longitude": -73.6058506,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -3660,7 +3660,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE79B4D2DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:32:34",
-    "last_seen": "2026-03-13T12:50:17.303972+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -3795,7 +3795,7 @@
     "latitude": 45.5650316,
     "longitude": -73.5854807,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -3853,7 +3853,7 @@
     "latitude": 45.5370427,
     "longitude": -73.5802547,
     "first_seen": "2026-03-12T18:47:02.197528+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "id": 45,
@@ -4125,7 +4125,7 @@
     "latitude": 45.5436766,
     "longitude": -73.5691204,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4144,7 +4144,7 @@
     "latitude": 45.5170359,
     "longitude": -73.5713468,
     "first_seen": "2026-03-08T01:47:45.767670+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4221,7 +4221,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE328A23DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4279,7 +4279,7 @@
     "latitude": 45.5400386,
     "longitude": -73.5908763,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-12T12:51:24.536555+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4298,7 +4298,7 @@
     "latitude": 45.5343081,
     "longitude": -73.618065,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4393,7 +4393,7 @@
     "latitude": 45.547685,
     "longitude": -73.5650794,
     "first_seen": "2026-03-12T01:44:08.540974+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4650,7 +4650,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3CD7D9DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4821,7 +4821,7 @@
     "latitude": 45.5696134,
     "longitude": -73.5553351,
     "first_seen": "2026-03-13T06:46:11.352724+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4880,7 +4880,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3F4919DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-13T18:35:58.486196+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
     "source": "centris",
@@ -4937,6 +4937,6 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-03-10T06:42:43.503644+00:00",
-    "last_seen": "2026-03-14T01:43:59.931987+00:00"
+    "last_seen": "2026-03-15T01:59:23.470889+00:00"
   }
 ]
