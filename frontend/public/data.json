@@ -19,6 +19,25 @@
     "last_seen": "2026-03-14T12:41:27.771018+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-4624-rue-henri-deslongchamps-1114357",
+    "title": "",
+    "price": 508700.0,
+    "address": "4624, rue Henri-Deslongchamps, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1060.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1114357/condo-rosemont-petite-patrie-600-15255591.jpg",
+    "description": "Condo à vendre – Condo lumineux avec beaucoup d'accès à l'extérieur\n2 chambres + bureau |...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5529194,
+    "longitude": -73.5632552,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/11413323",
     "title": "Condo for sale",
@@ -190,7 +209,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE38122BDDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 79,
@@ -251,6 +270,25 @@
     "last_seen": "2026-03-14T18:32:10.241147+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-5044-rue-dickson-1073436",
+    "title": "",
+    "price": 525000.0,
+    "address": "5044, rue Dickson, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 903.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202405/1073436/condo-rosemont-petite-patrie-600-14330386.jpg",
+    "description": "Condo à vendre – GRAND 41/2CLÉ EN MAIN, ENTIÈREMENT RÉNOVÉ EN 2024, AVEC...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5744648,
+    "longitude": -73.5528873,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "id": 40,
     "source": "duproprio",
     "url": "https://duproprio.com/fr/montreal/le-plateau-mont-royal/condo-a-vendre/hab-4427-rue-de-mentana-1021111",
@@ -268,7 +306,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202210/1021111/condo-plateau-mont-royal-600-13352697.jpg",
     "description": "Condo à vendre – Bien être et attachement assuré!\nSuperbe condo très lumineux (35 %...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -345,7 +383,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE54BC4CDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -380,8 +418,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5491531,
+    "longitude": -73.5965291,
     "first_seen": "2026-03-09T18:45:30.294105+00:00",
     "last_seen": "2026-03-15T18:33:51.138042+00:00"
   },
@@ -403,7 +441,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202012/941977/condo-plateau-mont-royal-600-11879395.jpg",
     "description": "Condo à vendre – LOFT LUXUEUX - Au coeur du PLATEAU\nSitué en plein coeur du Plateau....",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -422,7 +460,7 @@
     "latitude": 45.5297671,
     "longitude": -73.6059227,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 35,
@@ -437,12 +475,12 @@
     "area_sqft": 725.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5329545,
+    "longitude": -73.5640158,
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1112798/condo-plateau-mont-royal-600-15222010.jpg",
     "description": "Condo à vendre –  Agent s'abstenir\n**OCCUPATION IMMÉDIATE**\nCondo à vendre dans un immeuble de...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 60,
@@ -519,7 +557,7 @@
     "latitude": 45.5322347,
     "longitude": -73.6124022,
     "first_seen": "2026-03-10T01:42:23.689114+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -573,8 +611,8 @@
     "area_sqft": 0.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5318846,
+    "longitude": -73.5630637,
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE70C3CFDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
@@ -676,7 +714,7 @@
     "latitude": 45.535767,
     "longitude": -73.5931753,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -695,7 +733,7 @@
     "latitude": 45.5449022,
     "longitude": -73.585981,
     "first_seen": "2026-03-10T18:41:47.613739+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -730,8 +768,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5453429,
+    "longitude": -73.5774901,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
     "last_seen": "2026-03-09T12:53:57.448647+00:00"
   },
@@ -791,7 +829,7 @@
     "latitude": 45.5423894,
     "longitude": -73.5666885,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-15T06:51:59.241350+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -888,7 +926,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1112272/condo-plateau-mont-royal-600-15220099.jpg",
     "description": "Condo à vendre – Magnifique condo entièrement rénové, tout en conservant son cachet d'origine...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 22,
@@ -928,7 +966,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202506/1107527/condo-plateau-mont-royal-600-15097270.jpg",
     "description": "Condo à vendre – Emplacement de choix - Unité entièrement rénovée avec design signé Arte...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 44,
@@ -948,7 +986,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/201305/423561/facade-condo-plateau-mont-royal-600-2850737.jpg",
     "description": "Condo à vendre – ACTUELLEMENT LOUÉ jusqu'à l'automne.\nPossédant une localisation...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 63,
@@ -1064,7 +1102,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE98BD87DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-14T01:43:59.931987+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1103,7 +1141,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202207/1010485/condo-plateau-mont-royal-600-13213903.jpg",
     "description": "Condo à vendre – Charmant condo divise situé au rez-de-chaussée de la magnifique rue...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1122,7 +1160,7 @@
     "latitude": 45.5206107,
     "longitude": -73.5713176,
     "first_seen": "2026-03-07T23:13:05.892900+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1141,7 +1179,7 @@
     "latitude": 45.531268,
     "longitude": -73.5717259,
     "first_seen": "2026-03-08T12:39:37.878402+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 11,
@@ -1200,7 +1238,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202507/1108264/plateau-mont-royal-600-15130134.jpg",
     "description": "Condo à vendre – Condo spacieux au coeur du plateau Mont-Royal.\nNouvelle toiture. Bon fonds de...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 36,
@@ -1220,7 +1258,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1112397/condo-plateau-mont-royal-600-15212859.jpg",
     "description": "Condo à vendre – Emplacement exceptionnel, à deux pas de la rue Laurier, du boulevard...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1239,7 +1277,7 @@
     "latitude": 45.5696134,
     "longitude": -73.5553351,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-15T06:51:59.241350+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1336,7 +1374,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE36F224DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-06T16:37:13",
-    "last_seen": "2026-03-12T01:44:08.540974+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1644,7 +1682,7 @@
     "latitude": 45.508042,
     "longitude": -73.5717587,
     "first_seen": "2026-03-13T18:35:58.486196+00:00",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1836,7 +1874,26 @@
     "latitude": 45.5726731,
     "longitude": -73.5551153,
     "first_seen": "2026-03-12T06:48:57.293242+00:00",
-    "last_seen": "2026-03-14T12:41:27.771018+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-6836-rue-marquette-4-1113939",
+    "title": "",
+    "price": 594900.0,
+    "address": "6836, Rue Marquette - 4½, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 850.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1113939/condo-rosemont-petite-patrie-600-15232498.jpg",
+    "description": "Condo neuf - 20 unités à vendre – Marquette Rosemont - Rosemont, Montreal\nUnité 2 Chambres à...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": null,
+    "longitude": null,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1852,10 +1909,10 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5365883,
+    "longitude": -73.6112717,
     "first_seen": "2026-03-10T06:42:43.503644+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 19,
@@ -1878,6 +1935,25 @@
     "last_seen": "2026-03-15T01:59:23.470889+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-6543-avenue-de-lorimier-1033812",
+    "title": "",
+    "price": 595000.0,
+    "address": "6543, avenue De Lorimier, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1050.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202405/1033812/condo-rosemont-petite-patrie-600-14339569.jpg",
+    "description": "Condo à vendre – Condo spacieux et lumineux entièrement rénové dans un secteur recherché de...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.546054,
+    "longitude": -73.5951986,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/27953363",
     "title": "Condo for sale",
@@ -1894,7 +1970,7 @@
     "latitude": 45.542096,
     "longitude": -73.5897406,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -1932,7 +2008,7 @@
     "latitude": 45.5705165,
     "longitude": -73.5549111,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 28,
@@ -1947,12 +2023,12 @@
     "area_sqft": 843.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5264451,
+    "longitude": -73.5928024,
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202511/1117615/condo-plateau-mont-royal-600-15346338.jpg",
     "description": "Condo à vendre – Oasis de confort et de quiétude au coeur du Plateau-Mont-Royal, situé dans un...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 13,
@@ -1992,7 +2068,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE276D7BDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 75,
@@ -2090,7 +2166,7 @@
     "latitude": 45.5310576,
     "longitude": -73.566341,
     "first_seen": "2026-03-08T01:47:45.767670+00:00",
-    "last_seen": "2026-03-15T06:51:59.241350+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2166,7 +2242,7 @@
     "latitude": 45.5510581,
     "longitude": -73.5787926,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2204,7 +2280,7 @@
     "latitude": 45.5346337,
     "longitude": -73.5926504,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-13T18:35:58.486196+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2242,7 +2318,7 @@
     "latitude": 45.5354974,
     "longitude": -73.5933028,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2261,7 +2337,7 @@
     "latitude": 45.5320052,
     "longitude": -73.591677,
     "first_seen": "2026-03-11T18:49:04.929903+00:00",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2358,7 +2434,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202508/1109840/condo-plateau-mont-royal-600-15190961.jpg",
     "description": "Condo à vendre – NOUVEAU PRIX $599,900! Condo renové 2021 Tranquillité d'esprit au coeur du...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 50,
@@ -2379,6 +2455,25 @@
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
     "last_seen": "2026-03-15T18:33:51.138042+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/18896564",
+    "title": "Condo for sale",
+    "price": 599900.0,
+    "address": "6395, Rue Chambord, apt. 203 \t\t\t\t\t\t\tMontréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5ABBEEDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5399816,
+    "longitude": -73.5991681,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 51,
@@ -2440,6 +2535,25 @@
     "last_seen": "2026-03-15T12:42:09.830660+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-208-6363-boulevard-saint-laure-238780",
+    "title": "",
+    "price": 600000.0,
+    "address": "208-6363 boulevard Saint-Laurent, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1058.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/201103/238780/aire-ouverte-condo-rosemont-petite-patrie-600-1194869.jpg",
+    "description": "Condo à vendre – Une rareté dans la Petite Italie. À voir absolument. \nBien situé, Bien...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5299253,
+    "longitude": -73.6072849,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "id": 25,
     "source": "duproprio",
     "url": "https://duproprio.com/fr/montreal/le-plateau-mont-royal/condo-a-vendre/hab-303-3611-rue-saint-urbain-1120914",
@@ -2457,7 +2571,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1120914/condo-plateau-mont-royal-600-15437700.jpg",
     "description": "Condo à vendre – Plateau / Quartier des spectacles : Rare unité sur 2 étages (derniers...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2533,7 +2647,7 @@
     "latitude": 45.5310528,
     "longitude": -73.5798212,
     "first_seen": "2026-03-11T12:51:55.981942+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 15,
@@ -2644,12 +2758,12 @@
     "area_sqft": 803.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5275731,
+    "longitude": -73.5946679,
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1122192/condo-plateau-mont-royal-600-15455902.jpg",
     "description": "Condo à vendre – Charmant condo de 2 chambres situé dans le Mile-End. Grandes fenêtres offrant...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 16,
@@ -2672,6 +2786,25 @@
     "last_seen": "2026-03-05T20:50:02"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-315-3500-rue-rachel-est-1124980",
+    "title": "",
+    "price": 624000.0,
+    "address": "315-3500, rue Rachel Est, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 870.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202602/1124980/condo-rosemont-petite-patrie-600-15513222.jpg",
+    "description": "Condo à vendre – CONDO, ROSEMONT (Shop Angus) | Découvrez ce superbe condo haut de gamme de...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5479127,
+    "longitude": -73.5587281,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/10109263",
     "title": "Condo for sale",
@@ -2688,7 +2821,7 @@
     "latitude": 45.5726731,
     "longitude": -73.5551153,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -2727,7 +2860,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7FDD8BDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 81,
@@ -2805,7 +2938,7 @@
     "latitude": 45.5368939,
     "longitude": -73.5988666,
     "first_seen": "2026-03-10T12:52:23.688723+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 9,
@@ -2820,8 +2953,8 @@
     "area_sqft": 0.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5186852,
+    "longitude": -73.5819923,
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE52A33ADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
@@ -2898,12 +3031,12 @@
     "area_sqft": 938.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5296343,
+    "longitude": -73.5767165,
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202406/1076684/condo-plateau-mont-royal-600-14368227.jpg",
     "description": "Condo à vendre – Profitez de l'ambiance vibrante de l'un des quartiers les plus prisés de...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 47,
@@ -2923,7 +3056,26 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE39017EDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-6570-rue-jeanne-mance-1112544",
+    "title": "",
+    "price": 637000.0,
+    "address": "6570, Rue Jeanne-Mance, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 841.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1112544/condo-rosemont-petite-patrie-600-15210859.jpg",
+    "description": "Condo à vendre – Superbe condo dans le quartier du Mile-Ex. Condo lumineux et élégant de deux...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5278958,
+    "longitude": -73.6134338,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 56,
@@ -2965,6 +3117,25 @@
     "last_seen": "2026-03-15T18:33:51.138042+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-6-4784-rue-de-chambly-1125573",
+    "title": "",
+    "price": 639000.0,
+    "address": "6-4784, rue de Chambly, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1114.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202603/1125573/condo-rosemont-petite-patrie-600-15533968.jpg",
+    "description": "Condo à vendre –  ***LES VISITES AURONT LIEU LE DIMANCHE 22 MARS  *** Merci de nous contacter...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5519953,
+    "longitude": -73.5634287,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21266342",
     "title": "Condo for sale",
@@ -3000,7 +3171,7 @@
     "latitude": 45.5356722,
     "longitude": -73.6015485,
     "first_seen": "2026-03-09T18:45:30.294105+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 53,
@@ -3040,7 +3211,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1121538/condo-plateau-mont-royal-600-15424955.jpg",
     "description": "Condo à vendre – Superbe condo 2 chambres sur le Plateau  Lumineux, rénové, face à un parc...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 78,
@@ -3178,6 +3349,25 @@
     "last_seen": "2026-03-14T12:41:27.771018+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-761-rue-des-carrieres-1117616",
+    "title": "",
+    "price": 649000.0,
+    "address": "761, rue des Carrières, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 847.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202510/1117616/condo-rosemont-petite-patrie-600-15334429.jpg",
+    "description": "Condo à vendre – Magnifique condo unité de coin, très ensoleillé avec grande fenestration et...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.532215,
+    "longitude": -73.5955268,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/24533225",
     "title": "Condo for sale",
@@ -3249,8 +3439,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5432922,
+    "longitude": -73.5614372,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
     "last_seen": "2026-03-13T06:46:11.352724+00:00"
   },
@@ -3291,7 +3481,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202108/978124/condo-montreal-nord-600-12542515.jpg",
     "description": "Condo à vendre – *** je ne souhaite pas recevoir de sollicitation des courtiers immobiliers pour...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 77,
@@ -3368,7 +3558,26 @@
     "latitude": 45.5700387,
     "longitude": -73.5548999,
     "first_seen": "2026-03-10T18:41:47.613739+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-4257-rue-ernest-gendreau-1119003",
+    "title": "",
+    "price": 650000.0,
+    "address": "4257, rue Ernest Gendreau, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 1000.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202602/1119003/condo-rosemont-petite-patrie-600-15490467.jpg",
+    "description": "Condo à vendre – Superbe condo lumineux de 1000 pi² au dernier étage, avec plafonds...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5489776,
+    "longitude": -73.5619317,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 72,
@@ -3429,6 +3638,25 @@
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
     "last_seen": "2026-03-14T01:43:59.931987+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-705-5105-boulevard-lassomption-1122499",
+    "title": "",
+    "price": 670000.0,
+    "address": "705-5105, boulevard l'Assomption, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1086.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202602/1122499/condo-rosemont-petite-patrie-600-15483295.jpg",
+    "description": "Condo à vendre – Domaine du Parc Olympique, magnifique condo rénové avec stationnement...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.572018,
+    "longitude": -73.555378,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -3601,7 +3829,7 @@
     "latitude": 45.5723962,
     "longitude": -73.5536661,
     "first_seen": "2026-03-10T12:52:23.688723+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -3620,7 +3848,7 @@
     "latitude": 45.5468449,
     "longitude": -73.5681046,
     "first_seen": "2026-03-11T18:49:04.929903+00:00",
-    "last_seen": "2026-03-14T06:40:49.214240+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 83,
@@ -3679,7 +3907,7 @@
     "latitude": 45.5279017,
     "longitude": -73.575436,
     "first_seen": "2026-03-08T01:47:45.767670+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -3695,8 +3923,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5615969,
+    "longitude": -73.5744047,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
     "last_seen": "2026-03-10T06:42:43.503644+00:00"
   },
@@ -3773,8 +4001,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5650316,
+    "longitude": -73.5854807,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
     "last_seen": "2026-03-15T18:33:51.138042+00:00"
   },
@@ -3795,7 +4023,7 @@
     "latitude": 45.5650316,
     "longitude": -73.5854807,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -3856,6 +4084,25 @@
     "last_seen": "2026-03-15T12:42:09.830660+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-118-4240-rue-augustin-frigon-1124480",
+    "title": "",
+    "price": 695000.0,
+    "address": "118-4240, rue Augustin-Frigon, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1032.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202602/1124480/condo-rosemont-petite-patrie-600-15492204.jpg",
+    "description": "Condo à vendre – Ce superbe condo de 2 chambres, baigné de lumière grâce à sa fenestration...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5423894,
+    "longitude": -73.5666885,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "id": 45,
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14340603",
@@ -3892,7 +4139,7 @@
     "latitude": 45.5431154,
     "longitude": -73.5696015,
     "first_seen": "2026-03-09T06:56:59.456921+00:00",
-    "last_seen": "2026-03-13T01:46:18.609193+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 1,
@@ -3952,7 +4199,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE9C9FB8DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T21:00:47",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 95,
@@ -3991,7 +4238,7 @@
     "latitude": 45.5423894,
     "longitude": -73.5666885,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4026,8 +4273,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5508023,
+    "longitude": -73.5864755,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
     "last_seen": "2026-03-15T12:42:09.830660+00:00"
   },
@@ -4045,8 +4292,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5507484,
+    "longitude": -73.5863857,
     "first_seen": "2026-03-09T18:45:30.294105+00:00",
     "last_seen": "2026-03-15T12:42:09.830660+00:00"
   },
@@ -4068,6 +4315,44 @@
     "longitude": -73.5995862,
     "first_seen": "2026-03-12T01:44:08.540974+00:00",
     "last_seen": "2026-03-15T12:42:09.830660+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-6535-rue-de-lanaudiere-1121936",
+    "title": "",
+    "price": 699000.0,
+    "address": "6535, rue de Lanaudière, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 1075.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1121936/condo-rosemont-petite-patrie-600-15434919.jpg",
+    "description": "Condo à vendre – Condo indivise lumineux au coeur de Rosemont\nSitué dans...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5412354,
+    "longitude": -73.5995862,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-1007-5500-place-de-jumonville-1022587",
+    "title": "",
+    "price": 699000.0,
+    "address": "1007-5500, place de Jumonville, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1357.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202209/1022587/condo-rosemont-petite-patrie-600-13327387.jpg",
+    "description": "Condo à vendre –...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5723962,
+    "longitude": -73.5536661,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 74,
@@ -4106,7 +4391,7 @@
     "latitude": 45.5705165,
     "longitude": -73.5549111,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
-    "last_seen": "2026-03-15T06:51:59.241350+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4125,7 +4410,7 @@
     "latitude": 45.5436766,
     "longitude": -73.5691204,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4166,6 +4451,25 @@
     "last_seen": "2026-03-15T12:42:09.830660+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/maison-en-rangee-de-ville-a-vendre/hab-5072-avenue-charlemagne-594498",
+    "title": "",
+    "price": 709000.0,
+    "address": "5072 avenue Charlemagne, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 998.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/201507/594498/facade-maison-en-rangee-de-ville-rosemont-petite-patrie-600-5109295.jpg",
+    "description": "Maison en rangée / de ville à vendre – Un magnifique cottage dans un secteur très recherché...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.556273,
+    "longitude": -73.5651483,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/26306617",
     "title": "Condo for sale",
@@ -4182,7 +4486,26 @@
     "latitude": 45.520964,
     "longitude": -73.5894918,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
-    "last_seen": "2026-03-13T12:50:17.303972+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-216-2600-place-chasse-1121323",
+    "title": "",
+    "price": 714000.0,
+    "address": "216-2600, Place Chassé, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1162.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1121323/condo-rosemont-petite-patrie-600-15424489.jpg",
+    "description": "Condo à vendre – ** VENDU  **\nSuperbe unité de coin, clé en main, très lumineuse, au 2ème...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5431154,
+    "longitude": -73.5695887,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4202,6 +4525,25 @@
     "longitude": -73.5774407,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
     "last_seen": "2026-03-15T18:33:51.138042+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-6745-6755-boulevard-saint-mich-1115916",
+    "title": "",
+    "price": 719000.0,
+    "address": "6745-6755, boulevard Saint-Michel, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 28255.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202510/1115916/condo-rosemont-petite-patrie-600-15287112.jpg",
+    "description": "Condo neuf - 6 unités à vendre – Vivez l'expérience Groupe Hab - 6 unités neuves à...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5749183,
+    "longitude": -73.6341874,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 5,
@@ -4260,7 +4602,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7066B7DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:02",
-    "last_seen": "2026-03-13T01:46:18.609193+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4317,7 +4659,7 @@
     "latitude": 45.5418368,
     "longitude": -73.6065216,
     "first_seen": "2026-03-08T21:51:33.951840+00:00",
-    "last_seen": "2026-03-14T18:32:10.241147+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4374,7 +4716,26 @@
     "latitude": 45.5069878,
     "longitude": -73.5757097,
     "first_seen": "2026-03-13T18:35:58.486196+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-539-4220-rue-augustin-frigon-1114331",
+    "title": "",
+    "price": 729000.0,
+    "address": "539-4220, rue Augustin-Frigon, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1176.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202511/1114331/condo-rosemont-petite-patrie-600-15350330.jpg",
+    "description": "Condo à vendre – Condo moderne et lumineux sur deux niveaux, avec stationnement intérieur, au...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5424852,
+    "longitude": -73.5662555,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4434,6 +4795,44 @@
     "last_seen": "2026-03-15T06:51:59.241350+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-542-4220-rue-augustin-frigon-1124693",
+    "title": "",
+    "price": 735000.0,
+    "address": "542-4220, rue Augustin-Frigon, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1010.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202602/1124693/condo-rosemont-petite-patrie-600-15493014.jpg",
+    "description": "Condo à vendre – Superbe condo contemporain et spacieux situé en plein coeur du très...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5424852,
+    "longitude": -73.5662555,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/condo-a-vendre/hab-508-4240-rue-augustin-frigon-1106344",
+    "title": "",
+    "price": 737000.0,
+    "address": "508-4240, rue Augustin-Frigon, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 1107.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202506/1106344/condo-rosemont-petite-patrie-600-15074479.jpg",
+    "description": "Condo à vendre – Cité Angus Phase II - Magnifique condo de style maison de ville de 3 chambres...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5423894,
+    "longitude": -73.5666885,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "id": 38,
     "source": "duproprio",
     "url": "https://duproprio.com/fr/montreal/le-plateau-mont-royal/condo-a-vendre/hab-1513-3535-avenue-papineau-1105298",
@@ -4446,12 +4845,12 @@
     "area_sqft": 1436.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
-    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202505/1105298/condo-plateau-mont-royal-600-15032067.jpg",
+    "latitude": 45.5293337,
+    "longitude": -73.5661196,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202505/1105298/condo-plateau-mont-royal-600-15032073.jpg",
     "description": "Condo à vendre – Profitez de vues panoramiques imprenables sur la ville et les montagnes depuis...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 12,
@@ -4510,7 +4909,7 @@
     "latitude": 45.5414329,
     "longitude": -73.5742886,
     "first_seen": "2026-03-08T06:37:42.624770+00:00",
-    "last_seen": "2026-03-15T12:42:09.830660+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 24,
@@ -4525,12 +4924,12 @@
     "area_sqft": 1140.0,
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5337702,
+    "longitude": -73.5699625,
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202512/1082310/condo-plateau-mont-royal-600-15388454.jpg",
     "description": "Condo à vendre – WALK SCORE 99\nAu coeur du Plateau, sur la prestigieuse et tres recherchée...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 93,
@@ -4570,7 +4969,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202510/1116733/condo-plateau-mont-royal-600-15310530.jpg",
     "description": "Condo à vendre – Découvrez ce magnifique condo haut de gamme de 95 m² (1022.57 pi²),...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 2,
@@ -4630,7 +5029,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5D7E35DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "first_seen": "2026-03-05T20:50:22",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 62,
@@ -4685,8 +5084,8 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5508023,
+    "longitude": -73.5864755,
     "first_seen": "2026-03-09T01:49:06.082476+00:00",
     "last_seen": "2026-03-13T12:50:17.303972+00:00"
   },
@@ -4723,10 +5122,10 @@
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
+    "latitude": 45.5507484,
+    "longitude": -73.5863857,
     "first_seen": "2026-03-09T12:53:57.448647+00:00",
-    "last_seen": "2026-03-14T01:43:59.931987+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4843,6 +5242,25 @@
     "last_seen": "2026-03-15T06:51:59.241350+00:00"
   },
   {
+    "source": "duproprio",
+    "url": "https://duproprio.com/fr/montreal/rosemont-la-petite-patrie/duplex-a-vendre/hab-6663a-6661a-rue-boyer-1124744",
+    "title": "",
+    "price": 749000.0,
+    "address": "6663A-6661A, rue Boyer, Rosemont / La Petite Patrie",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 900.0,
+    "image_url": "https://photos.duproprio.com/photos/public/for_sale/202603/1124744/duplex-rosemont-petite-patrie-600-15530170.jpg",
+    "description": "Duplex à vendre – Emplacement exceptionnel dans un secteur urbain et branché, à proximité de...",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": null,
+    "longitude": null,
+    "first_seen": "2026-03-16T02:01:01.500640+00:00",
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
+  },
+  {
     "id": 34,
     "source": "duproprio",
     "url": "https://duproprio.com/fr/montreal/le-plateau-mont-royal/condo-a-vendre/hab-4303-rue-chapleau-1095285",
@@ -4860,7 +5278,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202502/1095285/condo-plateau-mont-royal-600-14813909.jpg",
     "description": "Condo à vendre – COPROPRIÉTÉ INDIVISE - PERLE RARE À SAISIR\nOASIS SUR LE Plateau Mont-Royal,...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-03-06T16:37:17"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "id": 48,
@@ -4918,7 +5336,7 @@
     "latitude": 45.5450613,
     "longitude": -73.5701118,
     "first_seen": "2026-03-09T18:45:30.294105+00:00",
-    "last_seen": "2026-03-15T18:33:51.138042+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   },
   {
     "source": "centris",
@@ -4937,6 +5355,6 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-03-10T06:42:43.503644+00:00",
-    "last_seen": "2026-03-15T01:59:23.470889+00:00"
+    "last_seen": "2026-03-16T02:01:01.500640+00:00"
   }
 ]
