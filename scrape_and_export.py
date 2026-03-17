@@ -95,6 +95,8 @@ async def main():
 
     now = datetime.now(timezone.utc).isoformat()
     new_count = 0
+    seen_urls: set[str] = set()           # URLs found in this scrape run
+    succeeded_sources: set[str] = set()   # Scrapers that ran without error
 
     for name, scraper in [
         ("centris",   CentrisScraper()),
@@ -105,9 +107,11 @@ async def main():
             raw = await scraper.scrape()
             kept = [r for r in raw if matches_criteria(r)]
             print(f"{name}: {len(raw)} scraped, {len(kept)} match criteria")
+            succeeded_sources.add(name)
 
             for item in kept:
                 url = item["url"]
+                seen_urls.add(url)
                 if url in existing:
                     existing[url].update({
                         "price":       item["price"],
@@ -139,6 +143,16 @@ async def main():
             import traceback
             print(f"ERROR: {name} scraper failed: {e}")
             traceback.print_exc()
+
+    # Remove listings whose source scraper succeeded but didn't find them anymore
+    stale = [
+        url for url, item in existing.items()
+        if url not in seen_urls and item.get("source") in succeeded_sources
+    ]
+    for url in stale:
+        del existing[url]
+    if stale:
+        print(f"\n🗑 Removed {len(stale)} stale listings no longer on source sites")
 
     # Retroactively geocode listings that have null coordinates
     missing_geo = [v for v in existing.values() if not v.get("latitude") or not v.get("longitude")]
