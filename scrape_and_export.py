@@ -13,7 +13,7 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -32,6 +32,7 @@ from scrapers.duproprio import DuProprioScraper
 from scrapers.remax import RemaxScraper
 
 DATA_JSON = ROOT / "frontend" / "public" / "data.json"
+STATE_JSON = ROOT / "frontend" / "public" / "state.json"  # Full state (incl. inactive) for tracking
 
 
 def clean_address(address: str) -> str:
@@ -83,17 +84,20 @@ def matches_criteria(item: dict) -> bool:
 
 
 async def main():
-    # Load existing snapshot keyed by URL
+    # Load existing snapshot keyed by URL (includes inactive listings)
     existing: dict[str, dict] = {}
-    if DATA_JSON.exists():
+    # Prefer state.json (has inactive listings) over data.json (active only)
+    src = STATE_JSON if STATE_JSON.exists() else DATA_JSON
+    if src.exists():
         try:
-            for item in json.loads(DATA_JSON.read_text(encoding="utf-8")):
+            for item in json.loads(src.read_text(encoding="utf-8")):
                 existing[item["url"]] = item
-            print(f"Loaded {len(existing)} existing listings from data.json")
+            print(f"Loaded {len(existing)} listings from {src.name}")
         except Exception as e:
-            print(f"Warning: could not read data.json: {e}")
+            print(f"Warning: could not read {src.name}: {e}")
 
-    now = datetime.now(timezone.utc).isoformat()
+    now_dt = datetime.now(timezone.utc)
+    now = now_dt.isoformat()
     new_count = 0
     seen_urls: set[str] = set()           # URLs found in this scrape run
     succeeded_sources: set[str] = set()   # Scrapers that ran without error
@@ -113,6 +117,7 @@ async def main():
                 url = item["url"]
                 seen_urls.add(url)
                 if url in existing:
+                    # Preserve first_seen, update everything else
                     existing[url].update({
                         "price":       item["price"],
                         "title":       item.get("title"),
@@ -144,18 +149,31 @@ async def main():
             print(f"ERROR: {name} scraper failed: {e}")
             traceback.print_exc()
 
-    # Remove listings whose source scraper succeeded but didn't find them anymore
-    stale = [
+    # Mark listings as inactive if their source scraper succeeded but didn't find them
+    stale_count = 0
+    for url, item in existing.items():
+        if url not in seen_urls and item.get("source") in succeeded_sources:
+            item["is_active"] = False
+            stale_count += 1
+    if stale_count:
+        print(f"\n⏸ Marked {stale_count} listings as inactive (not found in latest scrape)")
+
+    # Permanently delete listings inactive for more than 3 days
+    cutoff = (now_dt - timedelta(days=3)).isoformat()
+    expired = [
         url for url, item in existing.items()
-        if url not in seen_urls and item.get("source") in succeeded_sources
+        if not item.get("is_active", True) and item.get("last_seen", now) < cutoff
     ]
-    for url in stale:
+    for url in expired:
         del existing[url]
-    if stale:
-        print(f"\n🗑 Removed {len(stale)} stale listings no longer on source sites")
+    if expired:
+        print(f"🗑 Removed {len(expired)} listings inactive for 3+ days")
 
     # Retroactively geocode listings that have null coordinates
-    missing_geo = [v for v in existing.values() if not v.get("latitude") or not v.get("longitude")]
+    missing_geo = [
+        v for v in existing.values()
+        if v.get("is_active") and (not v.get("latitude") or not v.get("longitude"))
+    ]
     if missing_geo:
         print(f"\nGeocoding {len(missing_geo)} listings with missing coordinates…")
         for item in missing_geo:
@@ -168,6 +186,7 @@ async def main():
             else:
                 print(f"  ✗ {item.get('address', '')[:60]}")
 
+    # Export only active listings to data.json (frontend reads this)
     data = sorted(
         [v for v in existing.values() if v.get("is_active", True)],
         key=lambda x: x.get("price", 0),
@@ -175,7 +194,13 @@ async def main():
 
     DATA_JSON.parent.mkdir(parents=True, exist_ok=True)
     DATA_JSON.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n✓ {len(data)} listings ({new_count} new) → {DATA_JSON}")
+
+    # Save full state (including inactive) for tracking stale listings across runs
+    all_items = sorted(existing.values(), key=lambda x: x.get("url", ""))
+    STATE_JSON.write_text(json.dumps(all_items, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    inactive = len(all_items) - len(data)
+    print(f"\n✓ {len(data)} active listings ({new_count} new, {inactive} inactive) → {DATA_JSON}")
 
 
 asyncio.run(main())

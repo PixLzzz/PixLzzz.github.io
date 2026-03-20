@@ -38,13 +38,14 @@ export default function App() {
         const res = await fetch(import.meta.env.BASE_URL + 'data.json')
         if (!res.ok) throw new Error(`HTTP ${res.status}`)
         let all = await res.json()
+        // Compute stats from ALL listings before filtering
+        setStats(computeStats(all))
         // Client-side sort
         if (sort === 'price_asc')  all = [...all].sort((a, b) => a.price - b.price)
         if (sort === 'price_desc') all = [...all].sort((a, b) => b.price - a.price)
         if (sort === 'newest')     all = [...all].sort((a, b) => new Date(b.first_seen) - new Date(a.first_seen))
         if (source !== 'all')      all = all.filter(l => l.source === source)
         setListings(all)
-        setStats(computeStats(all))
         setScrapeStatus({ running: false, last_run: null })
       } else {
         const params = { sort }

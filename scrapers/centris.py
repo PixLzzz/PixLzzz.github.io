@@ -90,7 +90,7 @@ class CentrisScraper(BaseScraper):
                                 "url": listing_url,
                                 "title": item.get("title", ""),
                                 "price": self._parse_price(item.get("price", "")),
-                                "address": item.get("address", "").replace("\n", " ").strip(),
+                                "address": item.get("address", "").replace("\n", " ").replace("\t", " ").strip(),
                                 "neighborhood": neighborhood,
                                 "bedrooms": self._parse_int(item.get("bedrooms", "")),
                                 "bathrooms": self._parse_int(item.get("bathrooms", "")),
