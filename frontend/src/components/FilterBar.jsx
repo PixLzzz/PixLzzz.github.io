@@ -10,7 +10,7 @@ const SORTS = [
   { value: 'newest', label: 'Newest first' },
 ]
 
-export default function FilterBar({ source, sort, terrasse, nouveau, onSource, onSort, onTerrasse, onNouveau, count }) {
+export default function FilterBar({ source, sort, terrasse, recency, onSource, onSort, onTerrasse, onRecency, count }) {
   return (
     <div style={styles.bar}>
       <div style={styles.group}>
@@ -39,12 +39,22 @@ export default function FilterBar({ source, sort, terrasse, nouveau, onSource, o
         <button
           style={{
             ...styles.chip,
-            ...(nouveau ? { ...styles.chipActive, borderColor: '#f59e0b' } : {}),
+            ...(recency === 7 ? { ...styles.chipActive, borderColor: '#f59e0b' } : {}),
           }}
-          onClick={onNouveau}
+          onClick={() => onRecency(recency === 7 ? null : 7)}
         >
-          {nouveau && <span style={{ ...styles.dot, background: '#f59e0b' }} />}
+          {recency === 7 && <span style={{ ...styles.dot, background: '#f59e0b' }} />}
           Nouveau &lt;7j
+        </button>
+        <button
+          style={{
+            ...styles.chip,
+            ...(recency === 3 ? { ...styles.chipActive, borderColor: '#ef4444' } : {}),
+          }}
+          onClick={() => onRecency(recency === 3 ? null : 3)}
+        >
+          {recency === 3 && <span style={{ ...styles.dot, background: '#ef4444' }} />}
+          Nouveau &lt;3j
         </button>
         <span style={styles.remaxNote}>* RE/MAX QC listings are on Centris by law</span>
       </div>

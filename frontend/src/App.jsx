@@ -26,7 +26,7 @@ export default function App() {
   const [source, setSource] = useState('all')
   const [sort, setSort] = useState('price_asc')
   const [terrasse, setTerrasse] = useState(false)
-  const [nouveau, setNouveau] = useState(false)
+  const [recency, setRecency] = useState(null) // null | 7 | 3
   const [view, setView] = useState('list') // 'list' | 'map'
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -82,10 +82,10 @@ export default function App() {
     return () => clearInterval(id)
   }, [scrapeStatus?.running, fetchAll])
 
-  const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000
+  const recencyCutoff = recency ? Date.now() - recency * 24 * 60 * 60 * 1000 : null
   const filtered = listings
     .filter(l => !terrasse || l.has_terrace)
-    .filter(l => !nouveau || (l.first_seen && new Date(l.first_seen) > oneWeekAgo))
+    .filter(l => !recencyCutoff || (l.first_seen && new Date(l.first_seen) > recencyCutoff))
 
   return (
     <div style={styles.app}>
@@ -100,11 +100,11 @@ export default function App() {
         source={source}
         sort={sort}
         terrasse={terrasse}
-        nouveau={nouveau}
+        recency={recency}
         onSource={setSource}
         onSort={setSort}
         onTerrasse={() => setTerrasse(t => !t)}
-        onNouveau={() => setNouveau(n => !n)}
+        onRecency={setRecency}
         count={filtered.length}
       />
 
