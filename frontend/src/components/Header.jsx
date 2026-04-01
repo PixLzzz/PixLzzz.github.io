@@ -4,6 +4,7 @@ import axios from 'axios'
 const SOURCE_COLORS = {
   centris: 'var(--centris)',
   duproprio: 'var(--duproprio)',
+  remax: 'var(--remax)',
 }
 
 export default function Header({ stats, scrapeStatus, onScrapeStart, staticMode = false }) {
@@ -34,7 +35,7 @@ export default function Header({ stats, scrapeStatus, onScrapeStart, staticMode 
         <div>
           <h1 style={styles.title}>AppartClaude</h1>
           <p style={styles.subtitle}>
-            Plateau-Mont-Royal &amp; Mile-End &amp; Rosemont &nbsp;·&nbsp; 500 000 $ – 750 000 $ &nbsp;·&nbsp; 2+ ch
+            Plateau-Mont-Royal &amp; Mile-End &amp; Rosemont &nbsp;·&nbsp; 500 000 $ – 800 000 $ &nbsp;·&nbsp; 2+ ch
           </p>
         </div>
 
@@ -57,7 +58,7 @@ export default function Header({ stats, scrapeStatus, onScrapeStart, staticMode 
           <span style={styles.statNum}>{stats?.total ?? 0}</span>
           <span style={styles.statLabel}>total listings</span>
         </div>
-        {['centris', 'duproprio'].map((src) => (
+        {['centris', 'duproprio', 'remax'].map((src) => (
           <div key={src} style={styles.statChip}>
             <span style={{ ...styles.dot, background: SOURCE_COLORS[src] }} />
             <span style={styles.statNum}>{stats?.by_source?.[src] ?? 0}</span>

@@ -2,7 +2,7 @@
 
 CRITERIA = {
     "min_price": 500_000,
-    "max_price": 750_000,
+    "max_price": 800_000,
     "min_bedrooms": 2,
     "neighborhoods": [
         "Plateau-Mont-Royal",

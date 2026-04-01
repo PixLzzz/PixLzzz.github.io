@@ -93,23 +93,40 @@ class ScrapeStatus(BaseModel):
 
 # ---------- Helpers ----------
 
+def _clean_address_for_geocoding(address: str) -> str:
+    """Strip parenthetical neighborhood tags and unit numbers for cleaner geocoding."""
+    import re
+    # Remove parenthetical parts like (Le Plateau-Mont-Royal) (La Petite-Patrie)
+    cleaned = re.sub(r"\s*\([^)]*\)", "", address)
+    # Remove unit/app numbers (e.g. "app. 409", "app. #5", "#302")
+    cleaned = re.sub(r"\s*(app\.?\s*#?\d+\w*|#\d+\w*)", "", cleaned, flags=re.IGNORECASE)
+    return cleaned.strip().strip(",").strip()
+
+
 async def _geocode(address: str) -> tuple[float, float] | tuple[None, None]:
     """Geocode an address using Nominatim (OpenStreetMap). Returns (lat, lng) or (None, None)."""
     if not address:
         return None, None
-    query = f"{address}, Montreal, Quebec, Canada"
-    try:
-        async with httpx.AsyncClient(timeout=5) as client:
-            resp = await client.get(
-                "https://nominatim.openstreetmap.org/search",
-                params={"format": "json", "q": query, "limit": 1},
-                headers={"User-Agent": "AppartClaude/1.0"},
-            )
-            results = resp.json()
-            if results:
-                return float(results[0]["lat"]), float(results[0]["lon"])
-    except Exception as e:
-        logger.warning(f"Geocoding failed for '{address}': {e}")
+    clean = _clean_address_for_geocoding(address)
+    query = f"{clean}, Montreal, Quebec, Canada"
+    for attempt in range(3):
+        try:
+            async with httpx.AsyncClient(timeout=10) as client:
+                resp = await client.get(
+                    "https://nominatim.openstreetmap.org/search",
+                    params={"format": "json", "q": query, "limit": 1},
+                    headers={"User-Agent": "AppartClaude/1.0"},
+                )
+                if resp.status_code == 429:
+                    logger.warning(f"Nominatim rate-limited (attempt {attempt+1}), waiting 5s…")
+                    await asyncio.sleep(5)
+                    continue
+                results = resp.json()
+                if results:
+                    return float(results[0]["lat"]), float(results[0]["lon"])
+                return None, None
+        except Exception as e:
+            logger.warning(f"Geocoding failed for '{address}': {e}")
     return None, None
 
 
@@ -126,9 +143,16 @@ async def _upsert_listing(db: Session, data: dict) -> bool:
         existing.description = data.get("description", "")
         existing.has_terrace = data.get("has_terrace", False)
         existing.is_active = True
+        # Backfill coordinates from scraper if missing
+        if not existing.latitude and data.get("latitude"):
+            existing.latitude = data["latitude"]
+            existing.longitude = data.get("longitude")
         return False
-    # Geocode new listings
-    lat, lng = await _geocode(data.get("address", ""))
+    # Use pre-provided coordinates (e.g. from RE/MAX API), fall back to Nominatim
+    lat = data.pop("latitude", None)
+    lng = data.pop("longitude", None)
+    if not lat or not lng:
+        lat, lng = await _geocode(data.get("address", ""))
     db.add(Listing(**data, latitude=lat, longitude=lng))
     return True
 

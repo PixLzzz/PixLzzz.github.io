@@ -139,7 +139,7 @@ export default function App() {
             <div style={styles.emptyIcon}>🏙️</div>
             <p>No listings yet.</p>
             <p style={{ color: 'var(--muted)', marginTop: 8 }}>
-              Click <strong>Scrape now</strong> to fetch listings from Centris, DuProprio, and RE/MAX.
+              Click <strong>Scrape now</strong> to fetch listings from Centris, DuProprio, and RE/MAX Quebec.
             </p>
           </div>
         )}

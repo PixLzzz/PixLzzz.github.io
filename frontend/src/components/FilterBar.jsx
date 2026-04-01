@@ -1,7 +1,8 @@
 const SOURCES = [
   { value: 'all', label: 'All sources' },
-  { value: 'centris', label: 'Centris (incl. RE/MAX)', color: 'var(--centris)' },
+  { value: 'centris', label: 'Centris', color: 'var(--centris)' },
   { value: 'duproprio', label: 'DuProprio', color: 'var(--duproprio)' },
+  { value: 'remax', label: 'RE/MAX', color: 'var(--remax)' },
 ]
 
 const SORTS = [
@@ -56,7 +57,6 @@ export default function FilterBar({ source, sort, terrasse, recency, onSource, o
           {recency === 3 && <span style={{ ...styles.dot, background: '#ef4444' }} />}
           Nouveau &lt;3j
         </button>
-        <span style={styles.remaxNote}>* RE/MAX QC listings are on Centris by law</span>
       </div>
 
       <div style={styles.right}>
@@ -112,11 +112,6 @@ const styles = {
     width: 8,
     height: 8,
     borderRadius: '50%',
-  },
-  remaxNote: {
-    fontSize: 11,
-    color: 'var(--muted)',
-    fontStyle: 'italic',
   },
   right: {
     display: 'flex',
