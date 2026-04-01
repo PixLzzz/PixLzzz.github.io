@@ -1,3 +1,5 @@
+import { useMemo, useCallback } from 'react'
+
 const SOURCES = [
   { value: 'all', label: 'All sources' },
   { value: 'centris', label: 'Centris', color: 'var(--centris)' },
@@ -11,7 +13,78 @@ const SORTS = [
   { value: 'newest', label: 'Newest first' },
 ]
 
-export default function FilterBar({ source, sort, terrasse, recency, onSource, onSort, onTerrasse, onRecency, count }) {
+function fmt(n) {
+  if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, '') + 'M'
+  return Math.round(n / 1000) + 'k'
+}
+
+function PriceRangeSlider({ min, max, value, onChange }) {
+  const step = 10000
+  const pctMin = ((value[0] - min) / (max - min)) * 100
+  const pctMax = ((value[1] - min) / (max - min)) * 100
+
+  const handleMin = useCallback((e) => {
+    const v = Math.min(Number(e.target.value), value[1] - step)
+    onChange([v, value[1]])
+  }, [value, onChange, step])
+
+  const handleMax = useCallback((e) => {
+    const v = Math.max(Number(e.target.value), value[0] + step)
+    onChange([value[0], v])
+  }, [value, onChange, step])
+
+  return (
+    <div style={sliderStyles.wrapper}>
+      <span style={sliderStyles.label}>{fmt(value[0])} $</span>
+      <div style={sliderStyles.track}>
+        <div
+          style={{
+            ...sliderStyles.fill,
+            left: pctMin + '%',
+            width: (pctMax - pctMin) + '%',
+          }}
+        />
+        <input
+          type="range"
+          min={min}
+          max={max}
+          step={step}
+          value={value[0]}
+          onChange={handleMin}
+          style={sliderStyles.input}
+        />
+        <input
+          type="range"
+          min={min}
+          max={max}
+          step={step}
+          value={value[1]}
+          onChange={handleMax}
+          style={sliderStyles.input}
+        />
+      </div>
+      <span style={sliderStyles.label}>{fmt(value[1])} $</span>
+    </div>
+  )
+}
+
+export default function FilterBar({ source, sort, terrasse, recency, priceRange, listings, onSource, onSort, onTerrasse, onRecency, onPriceRange, count }) {
+  const { absMin, absMax } = useMemo(() => {
+    if (!listings || listings.length === 0) return { absMin: 0, absMax: 1000000 }
+    const prices = listings.map(l => l.price).filter(p => p > 0)
+    if (prices.length === 0) return { absMin: 0, absMax: 1000000 }
+    const lo = Math.floor(Math.min(...prices) / 10000) * 10000
+    const hi = Math.ceil(Math.max(...prices) / 10000) * 10000
+    return { absMin: lo, absMax: hi }
+  }, [listings])
+
+  const effectiveRange = [
+    priceRange[0] === 0 ? absMin : Math.max(priceRange[0], absMin),
+    priceRange[1] === Infinity ? absMax : Math.min(priceRange[1], absMax),
+  ]
+
+  const isFiltered = effectiveRange[0] > absMin || effectiveRange[1] < absMax
+
   return (
     <div style={styles.bar}>
       <div style={styles.group}>
@@ -69,8 +142,75 @@ export default function FilterBar({ source, sort, terrasse, recency, onSource, o
           ))}
         </select>
       </div>
+
+      <div style={styles.priceRow}>
+        <span style={styles.priceLabel}>Prix{isFiltered ? '' : ' (tout)'}</span>
+        <PriceRangeSlider
+          min={absMin}
+          max={absMax}
+          value={effectiveRange}
+          onChange={onPriceRange}
+        />
+        {isFiltered && (
+          <button
+            style={styles.resetBtn}
+            onClick={() => onPriceRange([0, Infinity])}
+          >
+            Reset
+          </button>
+        )}
+      </div>
     </div>
   )
+}
+
+const sliderStyles = {
+  wrapper: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: 10,
+    flex: 1,
+    minWidth: 200,
+    maxWidth: 400,
+  },
+  label: {
+    fontSize: 12,
+    fontWeight: 600,
+    color: 'var(--text)',
+    minWidth: 48,
+    textAlign: 'center',
+    whiteSpace: 'nowrap',
+  },
+  track: {
+    position: 'relative',
+    flex: 1,
+    height: 6,
+    borderRadius: 3,
+    background: 'var(--surface2)',
+  },
+  fill: {
+    position: 'absolute',
+    top: 0,
+    height: '100%',
+    borderRadius: 3,
+    background: 'var(--accent)',
+    pointerEvents: 'none',
+  },
+  input: {
+    position: 'absolute',
+    top: -6,
+    left: 0,
+    width: '100%',
+    height: 18,
+    margin: 0,
+    padding: 0,
+    appearance: 'none',
+    WebkitAppearance: 'none',
+    background: 'transparent',
+    pointerEvents: 'none',
+    cursor: 'pointer',
+    // Thumb styling is done via CSS below
+  },
 }
 
 const styles = {
@@ -130,5 +270,28 @@ const styles = {
     padding: '6px 10px',
     fontSize: 13,
     cursor: 'pointer',
+  },
+  priceRow: {
+    display: 'flex',
+    alignItems: 'center',
+    gap: 12,
+    width: '100%',
+    paddingTop: 4,
+  },
+  priceLabel: {
+    fontSize: 13,
+    fontWeight: 500,
+    color: 'var(--muted)',
+    whiteSpace: 'nowrap',
+  },
+  resetBtn: {
+    fontSize: 11,
+    color: 'var(--muted)',
+    background: 'var(--surface2)',
+    border: '1px solid var(--border)',
+    borderRadius: 12,
+    padding: '2px 10px',
+    cursor: 'pointer',
+    whiteSpace: 'nowrap',
   },
 }

@@ -27,6 +27,7 @@ export default function App() {
   const [sort, setSort] = useState('price_asc')
   const [terrasse, setTerrasse] = useState(false)
   const [recency, setRecency] = useState(null) // null | 7 | 3
+  const [priceRange, setPriceRange] = useState([0, Infinity])
   const [view, setView] = useState('list') // 'list' | 'map'
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -86,6 +87,7 @@ export default function App() {
   const filtered = listings
     .filter(l => !terrasse || l.has_terrace)
     .filter(l => !recencyCutoff || (l.first_seen && new Date(l.first_seen) > recencyCutoff))
+    .filter(l => l.price >= priceRange[0] && l.price <= priceRange[1])
 
   return (
     <div style={styles.app}>
@@ -101,10 +103,13 @@ export default function App() {
         sort={sort}
         terrasse={terrasse}
         recency={recency}
+        priceRange={priceRange}
+        listings={listings}
         onSource={setSource}
         onSort={setSort}
         onTerrasse={() => setTerrasse(t => !t)}
         onRecency={setRecency}
+        onPriceRange={setPriceRange}
         count={filtered.length}
       />
 
