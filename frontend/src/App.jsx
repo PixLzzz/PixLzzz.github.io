@@ -24,7 +24,7 @@ export default function App() {
   const [stats, setStats] = useState(null)
   const [scrapeStatus, setScrapeStatus] = useState(null)
   const [source, setSource] = useState('all')
-  const [sort, setSort] = useState('price_asc')
+  const [sort, setSort] = useState('newest')
   const [terrasse, setTerrasse] = useState(false)
   const [recency, setRecency] = useState(null) // null | 7 | 3
   const [priceRange, setPriceRange] = useState([0, Infinity])
