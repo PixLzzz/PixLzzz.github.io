@@ -29,7 +29,6 @@ import httpx
 from config import CRITERIA
 from scrapers.centris import CentrisScraper
 from scrapers.duproprio import DuProprioScraper
-from scrapers.remax import RemaxScraper
 
 DATA_JSON = ROOT / "frontend" / "public" / "data.json"
 STATE_JSON = ROOT / "frontend" / "public" / "state.json"  # Full state (incl. inactive) for tracking
@@ -105,7 +104,6 @@ async def main():
     for name, scraper in [
         ("centris",   CentrisScraper()),
         ("duproprio", DuProprioScraper()),
-        ("remax",     RemaxScraper()),
     ]:
         try:
             raw = await scraper.scrape()

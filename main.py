@@ -17,7 +17,6 @@ from database import Base, engine, get_db
 from models import Listing
 from scrapers.centris import CentrisScraper
 from scrapers.duproprio import DuProprioScraper
-from scrapers.remax import RemaxScraper
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
@@ -181,7 +180,6 @@ async def _run_scrape():
         scrapers = [
             ("centris", CentrisScraper()),
             ("duproprio", DuProprioScraper()),
-            ("remax", RemaxScraper()),
         ]
 
         db = next(get_db())

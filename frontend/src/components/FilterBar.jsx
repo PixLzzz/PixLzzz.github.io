@@ -4,7 +4,6 @@ const SOURCES = [
   { value: 'all', label: 'All sources' },
   { value: 'centris', label: 'Centris', color: 'var(--centris)' },
   { value: 'duproprio', label: 'DuProprio', color: 'var(--duproprio)' },
-  { value: 'remax', label: 'RE/MAX', color: 'var(--remax)' },
 ]
 
 const SORTS = [

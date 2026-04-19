@@ -1,7 +1,6 @@
 const SOURCE_META = {
   centris:   { label: 'Centris',   color: 'var(--centris)' },
   duproprio: { label: 'DuProprio', color: 'var(--duproprio)' },
-  remax:     { label: 'RE/MAX',    color: 'var(--remax)' },
 }
 
 function fmt(price) {
