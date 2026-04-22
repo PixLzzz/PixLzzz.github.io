@@ -205,13 +205,14 @@ async def _run_scrape():
                     logger.error(f"Scraper {name} failed: {e}")
                     counts[name] = {"total": 0, "new": 0, "error": str(e)}
 
-            # Deactivate listings from successful sources that were not found
-            if successful_sources:
-                stale = db.query(Listing).filter(
-                    Listing.is_active == True,
-                    Listing.source.in_(successful_sources),
-                    ~Listing.url.in_(seen_urls) if seen_urls else True,
-                ).all()
+            # Deactivate listings not found by successful scrapers,
+            # or from sources that no longer have a scraper
+            active_sources = {name for name, _ in scrapers}
+            stale = db.query(Listing).filter(
+                Listing.is_active == True,
+                ~Listing.url.in_(seen_urls) if seen_urls else True,
+                (Listing.source.in_(successful_sources)) | (~Listing.source.in_(active_sources)),
+            ).all()
                 for listing in stale:
                     listing.is_active = False
                 db.commit()

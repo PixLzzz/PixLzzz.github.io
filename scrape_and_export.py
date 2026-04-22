@@ -147,10 +147,13 @@ async def main():
             print(f"ERROR: {name} scraper failed: {e}")
             traceback.print_exc()
 
-    # Mark listings as inactive if their source scraper succeeded but didn't find them
+    # Mark listings as inactive if their source scraper succeeded but didn't find them,
+    # or if their source no longer has a scraper at all
+    active_sources = {name for name, _ in [("centris", None), ("duproprio", None)]}
     stale_count = 0
     for url, item in existing.items():
-        if url not in seen_urls and item.get("source") in succeeded_sources:
+        src = item.get("source")
+        if url not in seen_urls and (src in succeeded_sources or src not in active_sources):
             item["is_active"] = False
             stale_count += 1
     if stale_count:
