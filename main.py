@@ -184,22 +184,39 @@ async def _run_scrape():
 
         db = next(get_db())
         try:
+            seen_urls = set()
+            successful_sources = set()
             for name, scraper in scrapers:
                 try:
                     raw = await scraper.scrape()
                     kept = [r for r in raw if _matches_criteria(r)]
                     new_count = 0
                     for item in kept:
+                        seen_urls.add(item["url"])
                         is_new = await _upsert_listing(db, item)
                         if is_new:
                             new_count += 1
                             await asyncio.sleep(1.1)  # Nominatim rate limit: 1 req/s
                     db.commit()
+                    successful_sources.add(name)
                     counts[name] = {"total": len(kept), "new": new_count}
                     logger.info(f"{name}: {len(kept)} kept, {new_count} new")
                 except Exception as e:
                     logger.error(f"Scraper {name} failed: {e}")
                     counts[name] = {"total": 0, "new": 0, "error": str(e)}
+
+            # Deactivate listings from successful sources that were not found
+            if successful_sources:
+                stale = db.query(Listing).filter(
+                    Listing.is_active == True,
+                    Listing.source.in_(successful_sources),
+                    ~Listing.url.in_(seen_urls) if seen_urls else True,
+                ).all()
+                for listing in stale:
+                    listing.is_active = False
+                db.commit()
+                if stale:
+                    logger.info(f"Deactivated {len(stale)} stale listings")
         finally:
             db.close()
     except Exception as e:
