@@ -1,8 +1,8 @@
 """Search criteria and app configuration."""
 
 CRITERIA = {
-    "min_price": 500_000,
-    "max_price": 800_000,
+    "min_price": 550_000,
+    "max_price": 850_000,
     "min_bedrooms": 2,
     "neighborhoods": [
         "Plateau-Mont-Royal",
