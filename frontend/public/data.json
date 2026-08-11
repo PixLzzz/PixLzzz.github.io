@@ -16,7 +16,7 @@
     "latitude": 45.5450273,
     "longitude": -73.6030528,
     "first_seen": "2026-06-11T20:14:27.620683+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 37,
@@ -36,26 +36,26 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202509/1112272/condo-plateau-mont-royal-600-15220099.jpg",
     "description": "Condo à vendre – Magnifique condo entièrement rénové, tout en conservant son cachet d'origine...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/20387172",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/20947428",
     "title": "Condo for sale",
-    "price": 556556.0,
-    "address": "6848, Rue Marquette, apt. 2        Montréal (Rosemont/La Petite-Patrie)",
+    "price": 555000.0,
+    "address": "5863, Rue Marquette        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 2,
-    "bathrooms": 3,
+    "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA12BA4FDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA42E11CDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5450273,
-    "longitude": -73.6030528,
-    "first_seen": "2026-07-01T02:58:02.908378+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5400386,
+    "longitude": -73.5908763,
+    "first_seen": "2026-07-17T08:01:32.772462+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -74,7 +74,7 @@
     "latitude": 45.5316226,
     "longitude": -73.5917465,
     "first_seen": "2026-06-09T20:02:46.120384+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 44,
@@ -94,64 +94,64 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/201305/423561/facade-condo-plateau-mont-royal-600-2850737.jpg",
     "description": "Condo à vendre – ACTUELLEMENT LOUÉ jusqu'à l'automne.\nPossédant une localisation...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/27084771",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14548176",
     "title": "Condo for sale",
     "price": 559000.0,
-    "address": "4518, Rue Boyer        Montréal (Le Plateau-Mont-Royal)",
+    "address": "377, Rue Sherbrooke Ouest, apt. 314        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5BE5A1DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.508042,
+    "longitude": -73.5717587,
+    "first_seen": "2026-08-11T12:52:33.106537+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/9667020",
+    "title": "Condo for sale",
+    "price": 564700.0,
+    "address": "4561, Rue Garnier        Montréal (Le Plateau-Mont-Royal)",
     "neighborhood": "Plateau-Mont-Royal",
     "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD3D32CDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD42EC9DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5274739,
-    "longitude": -73.5804548,
-    "first_seen": "2026-08-05T19:23:03.640913+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.531549,
+    "longitude": -73.577578,
+    "first_seen": "2026-06-24T02:48:10.416032+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/17483525",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/25260413",
     "title": "Condo for sale",
-    "price": 560000.0,
-    "address": "370A, boulevard Saint-Joseph Est        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA167D65DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5257891,
-    "longitude": -73.5879306,
-    "first_seen": "2026-08-10T18:50:15.208909+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/12907847",
-    "title": "Condo for sale",
-    "price": 575000.0,
-    "address": "4317, Rue de Bordeaux        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 3,
+    "price": 574900.0,
+    "address": "6795, Rue Boyer        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD45A1EDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA42AFC9DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5332958,
-    "longitude": -73.5698797,
-    "first_seen": "2026-08-07T02:25:20.777556+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5394543,
+    "longitude": -73.6071081,
+    "first_seen": "2026-07-16T02:08:15.737610+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 42,
@@ -171,7 +171,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202207/1010485/condo-plateau-mont-royal-600-13213903.jpg",
     "description": "Condo à vendre – Charmant condo divise situé au rez-de-chaussée de la magnifique rue...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -190,7 +190,45 @@
     "latitude": 45.5264869,
     "longitude": -73.5753518,
     "first_seen": "2026-08-02T02:18:41.761522+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/22921525",
+    "title": "Condo for sale",
+    "price": 582648.0,
+    "address": "6848, Rue Marquette, apt. 4        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA120BD0DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5450273,
+    "longitude": -73.6030528,
+    "first_seen": "2026-07-16T02:08:15.737610+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21702016",
+    "title": "Condo for sale",
+    "price": 584000.0,
+    "address": "4334, Avenue Papineau        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA106263DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5315362,
+    "longitude": -73.5720026,
+    "first_seen": "2026-07-28T19:15:40.335005+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 33,
@@ -210,7 +248,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202508/1109840/condo-plateau-mont-royal-600-15190961.jpg",
     "description": "Condo à vendre – NOUVEAU PRIX $599,900! Renové 100% haute gamme. Immense terrasse au cur du...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 28,
@@ -230,7 +268,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202511/1117615/condo-plateau-mont-royal-600-15346335.jpg",
     "description": "Condo à vendre – Oasis de confort et de quiétude au cur du Plateau-Mont-Royal, situé dans un...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -249,26 +287,26 @@
     "latitude": 45.5389267,
     "longitude": -73.5834802,
     "first_seen": "2026-04-19T12:53:32.608060+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/17841883",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/27237958",
     "title": "Condo for sale",
     "price": 589000.0,
-    "address": "5801, 13e Avenue        Montréal (Rosemont/La Petite-Patrie)",
+    "address": "4900, boulevard de l'Assomption, apt. 510        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
+    "bedrooms": 2,
     "bathrooms": 2,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA13DDBADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE6A8585DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5589028,
-    "longitude": -73.5934667,
-    "first_seen": "2026-06-12T20:03:32.102870+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5696135,
+    "longitude": -73.5553351,
+    "first_seen": "2026-05-18T19:40:41.718630+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -287,7 +325,7 @@
     "latitude": 45.5312113,
     "longitude": -73.5844102,
     "first_seen": "2026-07-24T19:17:55.088504+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -306,7 +344,7 @@
     "latitude": 45.5434101,
     "longitude": -73.5976151,
     "first_seen": "2026-05-12T08:33:59.205522+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -325,26 +363,7 @@
     "latitude": 45.5274455,
     "longitude": -73.5860961,
     "first_seen": "2026-08-05T02:01:53.539639+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/13234639",
-    "title": "Condo for sale",
-    "price": 595000.0,
-    "address": "6872Z, Rue Saint-Denis, apt. 101-102        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 4,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE0D86A7DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5365883,
-    "longitude": -73.6112717,
-    "first_seen": "2026-06-26T14:13:31.658206+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -363,26 +382,7 @@
     "latitude": 45.5406614,
     "longitude": -73.6072467,
     "first_seen": "2026-06-20T08:48:12.882324+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/24267012",
-    "title": "Condo for sale",
-    "price": 598888.0,
-    "address": "5000, boulevard de l'Assomption, apt. 1003        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD9220FDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5705165,
-    "longitude": -73.5549111,
-    "first_seen": "2026-05-25T09:57:02.921370+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -401,83 +401,102 @@
     "latitude": 45.5611983,
     "longitude": -73.5789716,
     "first_seen": "2026-07-29T19:06:42.879309+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/13939124",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/18509040",
     "title": "Condo for sale",
     "price": 599000.0,
-    "address": "2571, Rue Sherbrooke Est        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD1C5F6DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.537011,
-    "longitude": -73.561213,
-    "first_seen": "2026-07-31T19:17:24.147150+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/20800462",
-    "title": "Condo for sale",
-    "price": 599000.0,
-    "address": "375, Avenue du Mont-Royal Ouest, apt. 303        Montréal (Le Plateau-Mont-Royal)",
+    "address": "3553, Rue De Bullion, apt. 1        Montréal (Le Plateau-Mont-Royal)",
     "neighborhood": "Plateau-Mont-Royal",
     "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADF044DDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD51BF2DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5165548,
-    "longitude": -73.5898969,
-    "first_seen": "2026-08-05T19:23:03.640913+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5151664,
+    "longitude": -73.5708324,
+    "first_seen": "2026-07-21T19:13:25.188271+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/19790109",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/19673055",
     "title": "Condo for sale",
     "price": 599000.0,
-    "address": "4792, Rue De Chambly, apt. 4        Montréal (Rosemont/La Petite-Patrie)",
+    "address": "5400, Avenue Henri-Julien, apt. 109        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA449F1ADDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5275731,
+    "longitude": -73.5946679,
+    "first_seen": "2026-08-04T19:24:33.361392+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/10583062",
+    "title": "Condo for sale",
+    "price": 599000.0,
+    "address": "5728, 9e Avenue        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
+    "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1741D3DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD8D4B4DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5510581,
+    "longitude": -73.5787926,
+    "first_seen": "2026-07-29T13:58:48.951669+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/27155166",
+    "title": "Condo for sale",
+    "price": 599000.0,
+    "address": "3867, Rue de Mentana        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA11CEDEDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5228798,
+    "longitude": -73.5705722,
+    "first_seen": "2026-08-11T12:52:33.106537+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/11104217",
+    "title": "Condo for sale",
+    "price": 599800.0,
+    "address": "4792, Rue De Chambly, apt. 5        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADAFBA3DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
     "latitude": 45.5520685,
     "longitude": -73.5636638,
-    "first_seen": "2026-07-23T08:22:25.784330+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/lots~for-sale~montreal-le-plateau-mont-royal/20844261",
-    "title": "Lot for sale",
-    "price": 599000.0,
-    "address": "4737, Rue Chabot        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 0,
-    "bathrooms": 0,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1E50BADDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5430347,
-    "longitude": -73.592966,
-    "first_seen": "2026-08-11T06:57:56.170663+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "first_seen": "2026-05-15T02:43:55.090316+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -496,7 +515,7 @@
     "latitude": 45.5311113,
     "longitude": -73.5633707,
     "first_seen": "2026-08-01T19:01:03.391882+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -515,7 +534,7 @@
     "latitude": 45.5450273,
     "longitude": -73.6030528,
     "first_seen": "2026-07-24T02:11:48.889162+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -534,7 +553,7 @@
     "latitude": 45.5212475,
     "longitude": -73.5710229,
     "first_seen": "2026-07-24T13:26:17.077702+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -553,7 +572,7 @@
     "latitude": 45.5224552,
     "longitude": -73.6001576,
     "first_seen": "2026-08-11T06:57:56.170663+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -572,7 +591,26 @@
     "latitude": 45.572018,
     "longitude": -73.555378,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15521655",
+    "title": "Condo for sale",
+    "price": 615000.0,
+    "address": "4540, Rue Saint-Dominique, apt. 3        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD86AE8DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5208583,
+    "longitude": -73.5867983,
+    "first_seen": "2026-07-27T14:21:41.254484+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -591,7 +629,7 @@
     "latitude": 45.5353957,
     "longitude": -73.5867143,
     "first_seen": "2026-05-26T20:03:50.659259+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -610,7 +648,7 @@
     "latitude": 45.5519953,
     "longitude": -73.5634287,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 27,
@@ -630,26 +668,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1122192/condo-plateau-mont-royal-600-15455902.jpg",
     "description": "Condo à vendre – LIBRE MAINTENANT.\nCharmant condo de 2 chambres situé dans le Mile-End. Grandes...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/15739723",
-    "title": "Condo for sale",
-    "price": 624000.0,
-    "address": "6720, Rue Saint-Denis        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE62D68FDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5355992,
-    "longitude": -73.6090516,
-    "first_seen": "2026-03-31T18:56:19.509404+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -668,7 +687,7 @@
     "latitude": 45.5355992,
     "longitude": -73.6090484,
     "first_seen": "2026-08-08T06:41:56.548644+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -687,7 +706,26 @@
     "latitude": 45.5342023,
     "longitude": -73.5926309,
     "first_seen": "2026-07-10T14:11:21.524038+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/25664058",
+    "title": "Condo for sale",
+    "price": 635000.0,
+    "address": "5700, Rue Garnier, apt. 216        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA41BD13DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5374654,
+    "longitude": -73.5904289,
+    "first_seen": "2026-07-17T18:59:57.914502+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -706,26 +744,7 @@
     "latitude": 45.5299287,
     "longitude": -73.595384,
     "first_seen": "2026-08-07T18:48:19.488063+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/17409780",
-    "title": "Condo for sale",
-    "price": 639700.0,
-    "address": "4816, Rue De Chambly, apt. 3        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA40AD9DDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5522673,
-    "longitude": -73.56429,
-    "first_seen": "2026-07-30T19:17:56.036118+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -744,102 +763,178 @@
     "latitude": 45.5723962,
     "longitude": -73.5536661,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/23134760",
-    "title": "Condo for sale",
+    "url": "https://www.centris.ca/en/duplexes~for-sale~montreal-rosemont-la-petite-patrie/28908319",
+    "title": "Duplex for sale",
     "price": 648000.0,
-    "address": "6993, Rue Saint-Denis        Montréal (Rosemont/La Petite-Patrie)",
+    "address": "2370 - 2372, Rue Bélanger        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4D15D0DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5769947,
+    "longitude": -73.5768539,
+    "first_seen": "2026-07-09T19:37:33.913631+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/23372866",
+    "title": "Condo for sale",
+    "price": 649000.0,
+    "address": "4739, Rue Clark        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE61538ADDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.520964,
+    "longitude": -73.5894919,
+    "first_seen": "2026-07-18T18:56:14.727106+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/27477490",
+    "title": "Condo for sale",
+    "price": 649000.0,
+    "address": "481, Rue Prince-Arthur Ouest, apt. 102        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA141A12DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5089075,
+    "longitude": -73.577625,
+    "first_seen": "2026-08-01T19:01:03.391882+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/18061441",
+    "title": "Condo for sale",
+    "price": 649000.0,
+    "address": "7160, boulevard Saint-Laurent, apt. 102        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 2,
     "bathrooms": 2,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1CAB74DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1564A7DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.53764,
-    "longitude": -73.6124382,
-    "first_seen": "2026-07-28T19:15:40.335005+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5343081,
+    "longitude": -73.618065,
+    "first_seen": "2026-07-10T09:26:22.813984+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/16217351",
-    "title": "Condo for sale",
+    "url": "https://www.centris.ca/en/houses~for-sale~montreal-rosemont-la-petite-patrie/11980722",
+    "title": "House for sale",
     "price": 649000.0,
-    "address": "2233, Rue Sherbrooke Est, apt. #5        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 3,
+    "address": "5921, 23e Avenue        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 5,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE56B3A5DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4C0C4ADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
-    "first_seen": "2026-08-01T08:12:32.406810+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5617106,
+    "longitude": -73.57376,
+    "first_seen": "2026-07-27T19:19:41.110714+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/18057584",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/10350003",
     "title": "Condo for sale",
-    "price": 649000.0,
-    "address": "3629, Rue Aylmer, apt. 3        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
+    "price": 649700.0,
+    "address": "4700, 2e Avenue, apt. 203        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4891F5DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5436766,
+    "longitude": -73.5691204,
+    "first_seen": "2026-07-24T02:11:48.889162+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/duplexes~for-sale~montreal-rosemont-la-petite-patrie/19649613",
+    "title": "Duplex for sale",
+    "price": 650000.0,
+    "address": "6542 - 6544, 27e Avenue        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE656F7EDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADF67BEDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5089109,
-    "longitude": -73.5781853,
-    "first_seen": "2026-08-03T19:24:34.752823+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.6348334,
+    "longitude": -73.5863545,
+    "first_seen": "2026-07-02T08:49:06.980604+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/triplexes~for-sale~montreal-rosemont-la-petite-patrie/12821245",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/28547721",
+    "title": "Condo for sale",
+    "price": 654000.0,
+    "address": "3100, Rue Rachel Est, apt. 145        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD32698DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5432922,
+    "longitude": -73.5614372,
+    "first_seen": "2026-07-27T14:21:41.254484+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/triplexes~for-sale~montreal-rosemont-la-petite-patrie/20063954",
     "title": "Triplex for sale",
-    "price": 655000.0,
-    "address": "6790 - 6794, 27e Avenue        Montréal (Rosemont/La Petite-Patrie)",
+    "price": 660000.0,
+    "address": "5483 - 5487, boulevard Saint-Michel        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 3,
-    "bathrooms": 2,
+    "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5B639ADDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD2B5DCDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": null,
-    "longitude": null,
-    "first_seen": "2026-07-09T14:47:33.023208+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/26306407",
-    "title": "Condo for sale",
-    "price": 659000.0,
-    "address": "3409, Avenue De Lorimier        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADBBE25DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5311113,
-    "longitude": -73.5633707,
-    "first_seen": "2026-08-03T14:28:04.260568+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5622074,
+    "longitude": -73.6069985,
+    "first_seen": "2026-07-08T19:17:37.351742+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -858,26 +953,26 @@
     "latitude": 45.5369588,
     "longitude": -73.599026,
     "first_seen": "2026-07-18T13:03:42.380054+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/26075101",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/26317902",
     "title": "Condo for sale",
-    "price": 669500.0,
-    "address": "2530, Place Michel-Brault, apt. 729        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
-    "bathrooms": 2,
+    "price": 670000.0,
+    "address": "4382, Rue Marquette        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1EFE5BDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1A7443DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5419182,
-    "longitude": -73.5736322,
-    "first_seen": "2026-07-26T19:03:14.727792+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5312835,
+    "longitude": -73.5737874,
+    "first_seen": "2026-07-24T13:26:17.077702+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -896,7 +991,26 @@
     "latitude": 45.5299253,
     "longitude": -73.6072849,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15351757",
+    "title": "Condo for sale",
+    "price": 675000.0,
+    "address": "2121, Rue Sherbrooke Est, apt. 302        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4A94ECDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5312195,
+    "longitude": -73.5632066,
+    "first_seen": "2026-08-06T02:06:15.571255+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -915,7 +1029,26 @@
     "latitude": 45.5281796,
     "longitude": -73.6119896,
     "first_seen": "2026-07-02T02:48:53.408617+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/14600803",
+    "title": "Condo for sale",
+    "price": 678321.0,
+    "address": "6836, Rue Marquette, apt. 2        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA12E910DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5449363,
+    "longitude": -73.6028055,
+    "first_seen": "2026-07-09T19:37:33.913631+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -934,7 +1067,7 @@
     "latitude": 45.5338926,
     "longitude": -73.5674455,
     "first_seen": "2026-06-30T19:48:26.974775+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -953,7 +1086,7 @@
     "latitude": 45.5423894,
     "longitude": -73.5666885,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -972,7 +1105,7 @@
     "latitude": 45.5075495,
     "longitude": -73.5756543,
     "first_seen": "2026-07-07T02:39:08.541658+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -991,7 +1124,7 @@
     "latitude": 45.564833,
     "longitude": -73.5848487,
     "first_seen": "2026-07-08T13:51:40.022000+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -1010,45 +1143,7 @@
     "latitude": 45.5228463,
     "longitude": -73.5704825,
     "first_seen": "2026-08-04T19:24:33.361392+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/20055146",
-    "title": "Condo for sale",
-    "price": 695700.0,
-    "address": "3100, Rue Rachel Est, apt. PH6        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4B319DDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5432922,
-    "longitude": -73.5614372,
-    "first_seen": "2026-08-05T08:28:02.070979+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/25676373",
-    "title": "Condo for sale",
-    "price": 695716.0,
-    "address": "6848, Rue Marquette, apt. 3        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1208C6DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5450273,
-    "longitude": -73.6030528,
-    "first_seen": "2026-06-12T20:03:32.102870+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "id": 24,
@@ -1068,83 +1163,45 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202606/1082310/condo-plateau-mont-royal-600-15765328.jpg",
     "description": "Condo à vendre – *LNMTE : Inscription\nUn condo de coin au dernière étage, c'est la promesse...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/13544065",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14798586",
     "title": "Condo for sale",
     "price": 699000.0,
-    "address": "3719, Avenue Laval        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4005F3DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5172939,
-    "longitude": -73.5726166,
-    "first_seen": "2026-08-07T18:48:19.488063+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/14423279",
-    "title": "Condo for sale",
-    "price": 699000.0,
-    "address": "3725, Avenue Laval        Montréal (Le Plateau-Mont-Royal)",
+    "address": "1990, boulevard Saint-Joseph Est        Montréal (Le Plateau-Mont-Royal)",
     "neighborhood": "Plateau-Mont-Royal",
     "bedrooms": 3,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADFEA3CDDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.517294,
-    "longitude": -73.5726038,
-    "first_seen": "2026-08-10T18:50:15.208909+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15022688",
-    "title": "Condo for sale",
-    "price": 699900.0,
-    "address": "3642, Avenue Henri-Julien        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3D5080DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE9C9FB8DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5170359,
-    "longitude": -73.5713468,
-    "first_seen": "2026-07-20T19:38:39.944394+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5366502,
+    "longitude": -73.5777762,
+    "first_seen": "2026-07-28T08:25:28.352504+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/27662995",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/19639877",
     "title": "Condo for sale",
-    "price": 699990.0,
-    "address": "5000, boulevard de l'Assomption, apt. 110        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
+    "price": 699000.0,
+    "address": "3558, Avenue Coloniale, apt. 305        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
     "bedrooms": 2,
     "bathrooms": 2,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1B4DF6DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD8582FDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5705165,
-    "longitude": -73.5549111,
-    "first_seen": "2026-07-26T08:18:20.232501+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5145817,
+    "longitude": -73.5716422,
+    "first_seen": "2026-06-18T14:57:15.796547+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1163,7 +1220,7 @@
     "latitude": 45.5431154,
     "longitude": -73.5695887,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1182,64 +1239,64 @@
     "latitude": 45.5749183,
     "longitude": -73.6341874,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/17997342",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/26880978",
     "title": "Condo for sale",
-    "price": 719900.0,
-    "address": "4237, Rue De La Roche        Montréal (Le Plateau-Mont-Royal)",
+    "price": 719000.0,
+    "address": "4288, Rue Marquette        Montréal (Le Plateau-Mont-Royal)",
     "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
+    "bedrooms": 3,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE68B9CFDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE6A8BA7DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5269932,
-    "longitude": -73.5742505,
-    "first_seen": "2026-07-21T02:10:50.150930+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5303708,
+    "longitude": -73.5719644,
+    "first_seen": "2026-07-27T09:40:48.802404+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21912871",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/19141912",
     "title": "Condo for sale",
     "price": 724900.0,
-    "address": "4570, Rue Saint-Denis, apt. 306        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 2,
+    "address": "4375, Rue André-Laurendeau, apt. 1        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4F0B28DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA48DD65DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5242326,
-    "longitude": -73.5841561,
-    "first_seen": "2026-08-07T18:48:19.488063+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5441498,
+    "longitude": -73.5657014,
+    "first_seen": "2026-08-07T12:52:15.521574+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/lots~for-sale~montreal-le-plateau-mont-royal/10379762",
-    "title": "Lot for sale",
-    "price": 730000.0,
-    "address": "Rue La Mennais        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 0,
-    "bathrooms": 0,
+    "url": "https://www.centris.ca/en/triplexes~for-sale~montreal-rosemont-la-petite-patrie/13419432",
+    "title": "Triplex for sale",
+    "price": 735000.0,
+    "address": "5385 - 5389, Avenue Jeanne-d'Arc        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD8C805DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5DFB4EDDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5327629,
-    "longitude": -73.5790484,
-    "first_seen": "2026-08-01T19:01:03.391882+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5565075,
+    "longitude": -73.5633731,
+    "first_seen": "2026-05-20T20:08:13.650764+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -1258,7 +1315,7 @@
     "latitude": 45.5696135,
     "longitude": -73.5553351,
     "first_seen": "2026-07-24T08:18:08.410210+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1277,7 +1334,7 @@
     "latitude": 45.5423894,
     "longitude": -73.5666885,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1296,7 +1353,7 @@
     "latitude": 45.556273,
     "longitude": -73.5651483,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -1315,45 +1372,26 @@
     "latitude": 45.5428202,
     "longitude": -73.5686468,
     "first_seen": "2026-08-06T02:06:15.571255+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/28809195",
-    "title": "Condo for sale",
-    "price": 741700.0,
-    "address": "4220, Rue Augustin-Frigon, apt. 554        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4D88B3DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": true,
-    "latitude": 45.5424852,
-    "longitude": -73.5662555,
-    "first_seen": "2026-07-17T02:11:24.175820+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/duplexes~for-sale~montreal-rosemont-la-petite-patrie/15392249",
-    "title": "Duplex for sale",
+    "url": "https://www.centris.ca/en/triplexes~for-sale~montreal-rosemont-la-petite-patrie/13719132",
+    "title": "Triplex for sale",
     "price": 748000.0,
-    "address": "5175 - 5177, Avenue Jeanne-d'Arc        Montréal (Rosemont/La Petite-Patrie)",
+    "address": "5410 - 5416, Rue D'Iberville        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADE3BD1DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1FB93DDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5537923,
-    "longitude": -73.5551104,
-    "first_seen": "2026-07-30T01:56:47.374005+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5449677,
+    "longitude": -73.582816,
+    "first_seen": "2026-06-24T02:48:10.416032+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1372,7 +1410,7 @@
     "latitude": 45.5245169,
     "longitude": -73.6038856,
     "first_seen": "2026-04-02T18:52:09.147727+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1391,26 +1429,64 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/17793594",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21941658",
     "title": "Condo for sale",
     "price": 749000.0,
-    "address": "4000, Rue Masson, apt. 201        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 4,
-    "bathrooms": 2,
+    "address": "1320, Rue Gilford        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4E092ADDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE69888EDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5581579,
-    "longitude": -73.5687408,
-    "first_seen": "2026-07-24T19:17:55.088504+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5315861,
+    "longitude": -73.5805438,
+    "first_seen": "2026-07-09T14:47:33.023208+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/26224364",
+    "title": "Condo for sale",
+    "price": 749000.0,
+    "address": "2391, Rue des Carrières        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA12F4B0DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5450798,
+    "longitude": -73.5856479,
+    "first_seen": "2026-06-11T15:50:05.192017+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/23134126",
+    "title": "Condo for sale",
+    "price": 749900.0,
+    "address": "5115, boulevard de l'Assomption, apt. 1304        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE667EFFDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5726731,
+    "longitude": -73.5551153,
+    "first_seen": "2026-08-04T13:59:07.800738+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1429,7 +1505,7 @@
     "latitude": 45.5360825,
     "longitude": -73.5882193,
     "first_seen": "2026-06-09T14:39:32.317183+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1448,7 +1524,7 @@
     "latitude": 45.5548412,
     "longitude": -73.5606811,
     "first_seen": "2026-05-14T13:59:42.088580+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1467,7 +1543,26 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-06-08T20:08:27.640991+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/24902168",
+    "title": "Condo for sale",
+    "price": 755000.0,
+    "address": "5661, Avenue De Chateaubriand, apt. 737        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD213FFDDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5321988,
+    "longitude": -73.5955135,
+    "first_seen": "2026-06-09T14:39:32.317183+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1486,7 +1581,7 @@
     "latitude": 45.5386717,
     "longitude": -73.5706635,
     "first_seen": "2026-04-24T18:43:07.549417+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -1505,7 +1600,7 @@
     "latitude": 45.5197181,
     "longitude": -73.5877001,
     "first_seen": "2026-08-11T06:57:56.170663+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1524,7 +1619,7 @@
     "latitude": 45.5419182,
     "longitude": -73.5736322,
     "first_seen": "2026-04-01T03:06:20.348536+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -1543,7 +1638,7 @@
     "latitude": 45.5156274,
     "longitude": -73.5791601,
     "first_seen": "2026-07-16T02:08:15.737610+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1562,7 +1657,26 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-04-01T03:06:20.348536+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/9908623",
+    "title": "Condo for sale",
+    "price": 785000.0,
+    "address": "5669, Rue Saint-Urbain        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1B992ADDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5257139,
+    "longitude": -73.6018313,
+    "first_seen": "2026-07-28T02:04:35.323539+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1581,7 +1695,26 @@
     "latitude": 45.5574469,
     "longitude": -73.5918402,
     "first_seen": "2026-06-12T20:03:32.102870+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15051821",
+    "title": "Condo for sale",
+    "price": 789000.0,
+    "address": "4485, Avenue de l'Hôtel-de-Ville, apt. 3        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA40F67ADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5219178,
+    "longitude": -73.5842281,
+    "first_seen": "2026-08-04T19:24:33.361392+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1600,7 +1733,45 @@
     "latitude": 45.5469077,
     "longitude": -73.5855998,
     "first_seen": "2026-07-03T19:12:51.254488+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/21702875",
+    "title": "Condo for sale",
+    "price": 799000.0,
+    "address": "4061, Avenue De Lorimier        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA400528DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5323577,
+    "longitude": -73.5659205,
+    "first_seen": "2026-08-07T02:25:20.777556+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/triplexes~for-sale~montreal-rosemont-la-petite-patrie/11989293",
+    "title": "Triplex for sale",
+    "price": 799000.0,
+    "address": "4330 - 4334, Avenue d'Orléans        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7C8D0CDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5512469,
+    "longitude": -73.5510898,
+    "first_seen": "2026-08-05T13:56:23.141033+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1619,7 +1790,45 @@
     "latitude": 45.5315333,
     "longitude": -73.5662087,
     "first_seen": "2026-07-20T19:38:39.944394+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/27542041",
+    "title": "Condo for sale",
+    "price": 825000.0,
+    "address": "3235, Avenue du Mont-Royal Est        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA15D859DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5477736,
+    "longitude": -73.5656404,
+    "first_seen": "2026-08-01T02:23:20.950649+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/duplexes~for-sale~montreal-le-plateau-mont-royal/13356412",
+    "title": "Duplex for sale",
+    "price": 830000.0,
+    "address": "3635 - 3637, Avenue de l'Hôtel-de-Ville        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE3EE915DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": null,
+    "longitude": null,
+    "first_seen": "2026-07-31T13:52:14.306663+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
@@ -1638,26 +1847,83 @@
     "latitude": 45.5452569,
     "longitude": -73.569703,
     "first_seen": "2026-07-31T13:52:14.306663+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/12349863",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/21841225",
+    "title": "Condo for sale",
+    "price": 845000.0,
+    "address": "2820, Rue Gilford        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4150B9DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5452569,
+    "longitude": -73.569703,
+    "first_seen": "2026-08-02T13:09:48.250736+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/23676888",
     "title": "Condo for sale",
     "price": 849000.0,
-    "address": "6654, Rue Clark        Montréal (Rosemont/La Petite-Patrie)",
+    "address": "280, Rue du Square-Saint-Louis        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1C0D67DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5163335,
+    "longitude": -73.5696902,
+    "first_seen": "2026-07-31T13:52:14.306663+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/houses~for-sale~montreal-rosemont-la-petite-patrie/12921282",
+    "title": "House for sale",
+    "price": 849000.0,
+    "address": "6220, boulevard Pie-IX        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA11516DDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5613617,
+    "longitude": -73.5776159,
+    "first_seen": "2026-08-01T08:12:32.406810+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/duplexes~for-sale~montreal-rosemont-la-petite-patrie/25969461",
+    "title": "Duplex for sale",
+    "price": 849900.0,
+    "address": "5969 - 5971, 12e Avenue        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 2,
     "bathrooms": 1,
     "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA101B70DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA40D82BDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
     "is_active": true,
-    "latitude": 45.5311372,
-    "longitude": -73.612665,
-    "first_seen": "2026-07-31T19:17:24.147150+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "latitude": 45.5548826,
+    "longitude": -73.5827385,
+    "first_seen": "2026-07-31T13:52:14.306663+00:00",
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   },
   {
     "source": "duproprio",
@@ -1676,6 +1942,6 @@
     "latitude": 45.5308884,
     "longitude": -73.5942031,
     "first_seen": "2026-07-31T13:52:14.306663+00:00",
-    "last_seen": "2026-08-11T06:57:56.170663+00:00"
+    "last_seen": "2026-08-11T12:52:33.106537+00:00"
   }
 ]
