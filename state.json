@@ -16,7 +16,7 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-09-03T20:24:51.551594+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "id": 27,
@@ -36,7 +36,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202601/1122192/condo-plateau-mont-royal-600-15455902.jpg",
     "description": "Condo à vendre – LIBRE MAINTENANT.\nCharmant condo de 2 chambres situé dans le Mile-End. Grandes...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "id": 24,
@@ -56,7 +56,7 @@
     "image_url": "https://photos.duproprio.com/photos/public/for_sale/202606/1082310/condo-plateau-mont-royal-600-15765328.jpg",
     "description": "Condo à vendre – *LNMTE : Inscription\nUn condo de coin au dernière étage, c'est la promesse...",
     "first_seen": "2026-03-05T20:50:09",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -75,7 +75,7 @@
     "latitude": 45.5360825,
     "longitude": -73.5882193,
     "first_seen": "2026-06-09T14:39:32.317183+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "id": 42,
@@ -134,7 +134,7 @@
     "latitude": 45.5075495,
     "longitude": -73.5756543,
     "first_seen": "2026-08-17T18:31:03.503065+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -153,7 +153,7 @@
     "latitude": 45.5276345,
     "longitude": -73.592574,
     "first_seen": "2026-09-24T16:22:38.288475+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -172,7 +172,7 @@
     "latitude": 45.5315333,
     "longitude": -73.5662087,
     "first_seen": "2026-07-20T19:38:39.944394+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -191,7 +191,7 @@
     "latitude": 45.5315333,
     "longitude": -73.5662087,
     "first_seen": "2026-09-24T02:50:17.048731+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -210,7 +210,7 @@
     "latitude": 45.5333736,
     "longitude": -73.5693057,
     "first_seen": "2026-09-02T15:53:17.879350+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "id": 37,
@@ -269,7 +269,7 @@
     "latitude": 45.5205158,
     "longitude": -73.5884314,
     "first_seen": "2026-08-25T18:32:47.689214+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -288,7 +288,7 @@
     "latitude": 45.5278493,
     "longitude": -73.5908732,
     "first_seen": "2026-08-13T01:27:35.381099+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -326,7 +326,7 @@
     "latitude": 45.5308884,
     "longitude": -73.5942031,
     "first_seen": "2026-07-31T13:52:14.306663+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -364,7 +364,7 @@
     "latitude": 45.5299287,
     "longitude": -73.595384,
     "first_seen": "2026-08-07T18:48:19.488063+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -383,7 +383,7 @@
     "latitude": 45.5255648,
     "longitude": -73.6052303,
     "first_seen": "2026-08-15T18:20:38.814165+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -402,7 +402,7 @@
     "latitude": 45.5386717,
     "longitude": -73.5706635,
     "first_seen": "2026-04-24T18:43:07.549417+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -421,7 +421,7 @@
     "latitude": 45.5723962,
     "longitude": -73.5536661,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -440,7 +440,7 @@
     "latitude": 45.5532332,
     "longitude": -73.5698889,
     "first_seen": "2026-08-20T00:57:00.904873+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -459,7 +459,7 @@
     "latitude": 45.5423894,
     "longitude": -73.5666885,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -478,7 +478,7 @@
     "latitude": 45.5492903,
     "longitude": -73.565154,
     "first_seen": "2026-09-17T20:53:12.025132+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -497,7 +497,7 @@
     "latitude": 45.5450798,
     "longitude": -73.5856479,
     "first_seen": "2026-08-25T00:58:49.465844+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -516,7 +516,7 @@
     "latitude": 45.5419182,
     "longitude": -73.5736322,
     "first_seen": "2026-04-01T03:06:20.348536+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -554,7 +554,7 @@
     "latitude": 45.5423894,
     "longitude": -73.5666885,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -573,7 +573,7 @@
     "latitude": 45.5749183,
     "longitude": -73.6341874,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -611,7 +611,7 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-06-08T20:08:27.640991+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -630,7 +630,7 @@
     "latitude": 45.5469077,
     "longitude": -73.5855998,
     "first_seen": "2026-07-03T19:12:51.254488+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -649,7 +649,7 @@
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -668,7 +668,7 @@
     "latitude": 45.5574469,
     "longitude": -73.5918402,
     "first_seen": "2026-06-12T20:03:32.102870+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "duproprio",
@@ -687,7 +687,7 @@
     "latitude": 45.556273,
     "longitude": -73.5651483,
     "first_seen": "2026-03-16T02:01:01.500640+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -702,7 +702,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2AF03DDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5461133,
     "longitude": -73.5733409,
     "first_seen": "2026-09-18T10:27:00.151641+00:00",
@@ -782,7 +782,7 @@
     "latitude": 45.5613617,
     "longitude": -73.5776159,
     "first_seen": "2026-07-31T13:52:14.306663+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -797,7 +797,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2F62B0DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5652892,
     "longitude": -73.5863089,
     "first_seen": "2026-09-17T10:51:10.684777+00:00",
@@ -816,7 +816,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA260137DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5616255,
     "longitude": -73.5774482,
     "first_seen": "2026-09-24T02:50:17.048731+00:00",
@@ -858,7 +858,7 @@
     "latitude": 45.564833,
     "longitude": -73.5848487,
     "first_seen": "2026-09-22T02:59:27.528930+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -900,6 +900,25 @@
   },
   {
     "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/10751919",
+    "title": "Condo for sale",
+    "price": 648000.0,
+    "address": "4240, Avenue Papineau        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2B93B9DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5308064,
+    "longitude": -73.5706034,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
+  },
+  {
+    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/10849003",
     "title": "Condo for sale",
     "price": 799000.0,
@@ -919,25 +938,6 @@
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/10912429",
-    "title": "Condo for sale",
-    "price": 649500.0,
-    "address": "5408, Avenue Casgrain        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 3,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA233680DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": false,
-    "latitude": 45.5261622,
-    "longitude": -73.596273,
-    "first_seen": "2026-09-22T20:47:45.009033+00:00",
-    "last_seen": "2026-09-22T20:47:45.009033+00:00"
-  },
-  {
-    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/10942765",
     "title": "Condo for sale",
     "price": 899000.0,
@@ -949,7 +949,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4C2494DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5159207,
     "longitude": -73.5681733,
     "first_seen": "2026-09-24T16:22:38.288475+00:00",
@@ -1044,7 +1044,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1A040EDDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5112264,
     "longitude": -73.5729535,
     "first_seen": "2026-09-23T20:59:33.136254+00:00",
@@ -1082,11 +1082,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2FB918DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5235434,
     "longitude": -73.5707816,
     "first_seen": "2026-09-23T20:59:33.136254+00:00",
-    "last_seen": "2026-09-24T21:03:56.027291+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1101,11 +1101,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2F6195DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5322686,
     "longitude": -73.5926983,
     "first_seen": "2026-09-23T20:59:33.136254+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1223,25 +1223,6 @@
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/13939124",
-    "title": "Condo for sale",
-    "price": 599000.0,
-    "address": "2571, Rue Sherbrooke Est        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD1C5F6DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": false,
-    "latitude": 45.537011,
-    "longitude": -73.561213,
-    "first_seen": "2026-09-07T11:24:27.978185+00:00",
-    "last_seen": "2026-09-22T20:47:45.009033+00:00"
-  },
-  {
-    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/13969926",
     "title": "Condo for sale",
     "price": 874900.0,
@@ -1329,7 +1310,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2165BEDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5376531,
     "longitude": -73.5852749,
     "first_seen": "2026-08-31T12:30:30.193281+00:00",
@@ -1367,7 +1348,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA224F6BDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5161387,
     "longitude": -73.5679613,
     "first_seen": "2026-09-02T02:31:58.455308+00:00",
@@ -1386,11 +1367,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADA872BDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5094751,
     "longitude": -73.5762845,
     "first_seen": "2026-09-23T20:59:33.136254+00:00",
-    "last_seen": "2026-09-24T02:50:17.048731+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1451,25 +1432,6 @@
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15072135",
-    "title": "Condo for sale",
-    "price": 599999.0,
-    "address": "4111, Avenue De Lorimier        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA270420DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": false,
-    "latitude": 45.5326825,
-    "longitude": -73.5664967,
-    "first_seen": "2026-09-10T20:21:06.875669+00:00",
-    "last_seen": "2026-09-22T20:47:45.009033+00:00"
-  },
-  {
-    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/15911345",
     "title": "Condo for sale",
     "price": 869000.0,
@@ -1481,11 +1443,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4BBA9BDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5243055,
     "longitude": -73.6064208,
     "first_seen": "2026-09-24T10:59:34.277652+00:00",
-    "last_seen": "2026-09-25T10:59:54.222888+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1500,11 +1462,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2FDF0BDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5296953,
     "longitude": -73.5793281,
     "first_seen": "2026-09-23T15:58:29.784845+00:00",
-    "last_seen": "2026-09-23T20:59:33.136254+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1576,7 +1538,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2891ACDDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5281104,
     "longitude": -73.579871,
     "first_seen": "2026-09-17T03:04:03.355814+00:00",
@@ -1694,7 +1656,7 @@
     "latitude": 45.5293155,
     "longitude": -73.5846758,
     "first_seen": "2026-09-15T20:47:17.086160+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1771,6 +1733,25 @@
     "longitude": -73.5732655,
     "first_seen": "2026-09-19T15:13:42.064962+00:00",
     "last_seen": "2026-09-25T10:59:54.222888+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/19159821",
+    "title": "Condo for sale",
+    "price": 699000.0,
+    "address": "4581, Avenue De Lorimier        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1093F2DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5359531,
+    "longitude": -73.5736269,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1861,11 +1842,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA46523BDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5256637,
     "longitude": -73.5870961,
     "first_seen": "2026-09-21T21:36:52.464502+00:00",
-    "last_seen": "2026-09-25T10:59:54.222888+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -1885,25 +1866,6 @@
     "longitude": -73.5798212,
     "first_seen": "2026-09-17T16:05:51.890270+00:00",
     "last_seen": "2026-09-23T10:39:26.876789+00:00"
-  },
-  {
-    "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/20696819",
-    "title": "Condo for sale",
-    "price": 570000.0,
-    "address": "4104, Rue Cartier        Montréal (Le Plateau-Mont-Royal)",
-    "neighborhood": "Plateau-Mont-Royal",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1A44C3DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": false,
-    "latitude": 45.5308205,
-    "longitude": -73.5684182,
-    "first_seen": "2026-09-21T21:36:52.464502+00:00",
-    "last_seen": "2026-09-22T20:47:45.009033+00:00"
   },
   {
     "source": "centris",
@@ -1956,7 +1918,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA404DDCDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5156851,
     "longitude": -73.5807362,
     "first_seen": "2026-08-25T18:32:47.689214+00:00",
@@ -1994,7 +1956,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2F0BD6DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.535534,
     "longitude": -73.5879499,
     "first_seen": "2026-09-24T02:50:17.048731+00:00",
@@ -2013,7 +1975,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1793B0DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5216246,
     "longitude": -73.5729342,
     "first_seen": "2026-08-28T08:42:19.266109+00:00",
@@ -2032,11 +1994,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2BC33ADDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5245728,
     "longitude": -73.5983374,
     "first_seen": "2026-09-24T16:22:38.288475+00:00",
-    "last_seen": "2026-09-24T16:22:38.288475+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2131,7 +2093,7 @@
     "latitude": 45.5315861,
     "longitude": -73.5805438,
     "first_seen": "2026-09-17T20:53:12.025132+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2173,6 +2135,25 @@
   },
   {
     "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/22924721",
+    "title": "Condo for sale",
+    "price": 875000.0,
+    "address": "398, Rue Labadie        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA20A91ADDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.519103,
+    "longitude": -73.5971437,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
+  },
+  {
+    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/23221062",
     "title": "Condo for sale",
     "price": 874000.0,
@@ -2203,11 +2184,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA21276FDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.513022,
     "longitude": -73.5738735,
     "first_seen": "2026-09-08T20:36:40.584814+00:00",
-    "last_seen": "2026-09-23T20:59:33.136254+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2374,11 +2355,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA234AEADDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5377915,
     "longitude": -73.5795341,
     "first_seen": "2026-09-22T20:47:45.009033+00:00",
-    "last_seen": "2026-09-23T02:59:16.270493+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2412,7 +2393,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2F525ADDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5236381,
     "longitude": -73.5794422,
     "first_seen": "2026-09-19T19:56:48.593087+00:00",
@@ -2435,7 +2416,7 @@
     "latitude": 45.531737,
     "longitude": -73.5768099,
     "first_seen": "2026-09-25T03:06:41.078648+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2534,6 +2515,25 @@
   },
   {
     "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/26672901",
+    "title": "Condo for sale",
+    "price": 615000.0,
+    "address": "3660, Rue Clark        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA255579DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5138634,
+    "longitude": -73.5744838,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
+  },
+  {
+    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/26726126",
     "title": "Condo for sale",
     "price": 695000.0,
@@ -2564,7 +2564,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4E32BEDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5161387,
     "longitude": -73.5679613,
     "first_seen": "2026-09-25T16:22:29.450724+00:00",
@@ -2602,7 +2602,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA46E97BDDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5240332,
     "longitude": -73.5718602,
     "first_seen": "2026-09-21T17:43:57.600990+00:00",
@@ -2640,7 +2640,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1B7163DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5257138,
     "longitude": -73.6018377,
     "first_seen": "2026-09-24T21:03:56.027291+00:00",
@@ -2773,7 +2773,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA145D62DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5551667,
     "longitude": -73.6055151,
     "first_seen": "2026-09-24T16:22:38.288475+00:00",
@@ -2830,11 +2830,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1EE691DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5237878,
     "longitude": -73.5995277,
     "first_seen": "2026-09-15T16:07:00.390286+00:00",
-    "last_seen": "2026-09-25T10:59:54.222888+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2849,11 +2849,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA41C808DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5228463,
     "longitude": -73.5704825,
     "first_seen": "2026-09-23T15:58:29.784845+00:00",
-    "last_seen": "2026-09-24T02:50:17.048731+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2887,7 +2887,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5AE582DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.523996,
     "longitude": -73.5731152,
     "first_seen": "2026-09-22T16:08:26.993374+00:00",
@@ -2925,11 +2925,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE6EA326DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5300405,
     "longitude": -73.5865614,
     "first_seen": "2026-09-21T17:43:57.600990+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2949,6 +2949,25 @@
     "longitude": -73.5707161,
     "first_seen": "2026-09-17T10:51:10.684777+00:00",
     "last_seen": "2026-09-23T10:39:26.876789+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-le-plateau-mont-royal/9372641",
+    "title": "Condo for sale",
+    "price": 795000.0,
+    "address": "4013, Rue de Mentana        Montréal (Le Plateau-Mont-Royal)",
+    "neighborhood": "Plateau-Mont-Royal",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA26DE57DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5237,
+    "longitude": -73.5723846,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -2986,7 +3005,7 @@
     "latitude": 45.5263043,
     "longitude": -73.5758643,
     "first_seen": "2026-09-06T14:48:40.049177+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3058,11 +3077,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4891F5DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5436766,
     "longitude": -73.5691204,
     "first_seen": "2026-07-24T02:11:48.889162+00:00",
-    "last_seen": "2026-09-24T16:22:38.288475+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3153,11 +3172,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA207C23DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5442802,
     "longitude": -73.5941517,
     "first_seen": "2026-09-20T20:12:21.056039+00:00",
-    "last_seen": "2026-09-24T21:03:56.027291+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3195,7 +3214,7 @@
     "latitude": 45.5311372,
     "longitude": -73.612665,
     "first_seen": "2026-09-25T16:22:29.450724+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3218,6 +3237,25 @@
   },
   {
     "source": "centris",
+    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/12646131",
+    "title": "Condo for sale",
+    "price": 799000.0,
+    "address": "6632, Rue Clark, apt. 101        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA16A657DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5309582,
+    "longitude": -73.6124219,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
+  },
+  {
+    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/12760708",
     "title": "Condo for sale",
     "price": 649900.0,
@@ -3233,7 +3271,7 @@
     "latitude": 45.5436766,
     "longitude": -73.5691204,
     "first_seen": "2026-06-29T02:59:31.659665+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3328,7 +3366,7 @@
     "latitude": 45.5449363,
     "longitude": -73.6028055,
     "first_seen": "2026-07-09T19:37:33.913631+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3362,11 +3400,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA20B664DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5519953,
     "longitude": -73.5634287,
     "first_seen": "2026-09-12T09:57:39.676558+00:00",
-    "last_seen": "2026-09-23T15:58:29.784845+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3457,11 +3495,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4E092ADDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5581579,
     "longitude": -73.5687408,
     "first_seen": "2026-09-02T15:53:17.879350+00:00",
-    "last_seen": "2026-09-24T16:22:38.288475+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3495,11 +3533,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1C5D91DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.541987,
     "longitude": -73.5588117,
     "first_seen": "2026-09-04T20:11:06.218326+00:00",
-    "last_seen": "2026-09-25T10:59:54.222888+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3552,11 +3590,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA473C63DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5723962,
     "longitude": -73.5536661,
     "first_seen": "2026-08-14T18:45:53.364574+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3613,7 +3651,7 @@
     "latitude": 45.5303361,
     "longitude": -73.6081282,
     "first_seen": "2026-09-06T14:48:40.049177+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3666,7 +3704,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA200439DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5369833,
     "longitude": -73.5990197,
     "first_seen": "2026-09-15T16:07:00.390286+00:00",
@@ -3704,7 +3742,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA176C59DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5619121,
     "longitude": -73.5731457,
     "first_seen": "2026-08-31T12:30:30.193281+00:00",
@@ -3780,11 +3818,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA12AC42DDDDDDDDDDB&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5450273,
     "longitude": -73.6030528,
     "first_seen": "2026-06-16T16:41:50.476360+00:00",
-    "last_seen": "2026-09-24T10:59:34.277652+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -3799,7 +3837,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA18A79CDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5357127,
     "longitude": -73.6068811,
     "first_seen": "2026-08-30T03:13:49.561145+00:00",
@@ -3970,7 +4008,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE667EFFDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5726731,
     "longitude": -73.5551153,
     "first_seen": "2026-09-02T15:53:17.879350+00:00",
@@ -3989,7 +4027,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA27A784DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5423895,
     "longitude": -73.6089503,
     "first_seen": "2026-09-22T02:59:27.528930+00:00",
@@ -4012,7 +4050,7 @@
     "latitude": 45.5548254,
     "longitude": -73.5616057,
     "first_seen": "2026-09-19T02:49:59.716848+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4046,11 +4084,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2B92A2DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5460124,
     "longitude": -73.5869645,
     "first_seen": "2026-09-25T10:59:54.222888+00:00",
-    "last_seen": "2026-09-25T10:59:54.222888+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4073,25 +4111,6 @@
   },
   {
     "source": "centris",
-    "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/24682324",
-    "title": "Condo for sale",
-    "price": 591346.0,
-    "address": "6848, Rue Marquette, apt. 5        Montréal (Rosemont/La Petite-Patrie)",
-    "neighborhood": "Rosemont-La Petite-Patrie",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area_sqft": 0.0,
-    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA46FC29DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
-    "description": "",
-    "has_terrace": false,
-    "is_active": false,
-    "latitude": 45.5450273,
-    "longitude": -73.6030528,
-    "first_seen": "2026-09-15T20:47:17.086160+00:00",
-    "last_seen": "2026-09-22T20:47:45.009033+00:00"
-  },
-  {
-    "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/25664058",
     "title": "Condo for sale",
     "price": 635000.0,
@@ -4103,7 +4122,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA430087DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5374654,
     "longitude": -73.5904289,
     "first_seen": "2026-07-17T18:59:57.914502+00:00",
@@ -4126,7 +4145,7 @@
     "latitude": 45.5450273,
     "longitude": -73.6030528,
     "first_seen": "2026-09-16T15:59:31.981643+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4227,7 +4246,7 @@
     "source": "centris",
     "url": "https://www.centris.ca/en/condos~for-sale~montreal-rosemont-la-petite-patrie/27582258",
     "title": "Condo for sale",
-    "price": 665000.0,
+    "price": 625000.0,
     "address": "6261, Avenue Christophe-Colomb        Montréal (Rosemont/La Petite-Patrie)",
     "neighborhood": "Rosemont-La Petite-Patrie",
     "bedrooms": 2,
@@ -4236,11 +4255,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA207A5BDDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5369588,
     "longitude": -73.599026,
     "first_seen": "2026-09-09T20:18:54.911175+00:00",
-    "last_seen": "2026-09-24T10:59:34.277652+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4274,11 +4293,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA280D41DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5319001,
     "longitude": -73.6197615,
     "first_seen": "2026-09-24T02:50:17.048731+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4388,11 +4407,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2F4397DDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5729216,
     "longitude": -73.5523429,
     "first_seen": "2026-09-12T09:57:39.676558+00:00",
-    "last_seen": "2026-09-23T20:59:33.136254+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4411,7 +4430,7 @@
     "latitude": 45.5424852,
     "longitude": -73.5662555,
     "first_seen": "2026-09-16T10:44:01.872881+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4468,7 +4487,7 @@
     "latitude": 45.5395698,
     "longitude": -73.6026004,
     "first_seen": "2026-09-24T02:50:17.048731+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4483,7 +4502,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA29BF64DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5331377,
     "longitude": -73.6036602,
     "first_seen": "2026-09-19T19:56:48.593087+00:00",
@@ -4578,7 +4597,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD4593CDDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5687468,
     "longitude": -73.6526371,
     "first_seen": "2026-09-16T15:59:31.981643+00:00",
@@ -4597,7 +4616,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA289330DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5557846,
     "longitude": -73.5953276,
     "first_seen": "2026-09-19T02:49:59.716848+00:00",
@@ -4616,11 +4635,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA2A0F4FDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5412927,
     "longitude": -73.643904,
     "first_seen": "2026-09-08T15:53:04.037205+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4658,7 +4677,7 @@
     "latitude": 45.5622074,
     "longitude": -73.6069985,
     "first_seen": "2026-07-08T19:17:37.351742+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4711,7 +4730,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DADE3BD1DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5551582,
     "longitude": -73.5593495,
     "first_seen": "2026-09-16T15:59:31.981643+00:00",
@@ -4730,7 +4749,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA20700DDDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5589028,
     "longitude": -73.5934667,
     "first_seen": "2026-09-21T11:48:19.985285+00:00",
@@ -4749,7 +4768,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DEF85B51DDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5540939,
     "longitude": -73.5701145,
     "first_seen": "2026-09-05T09:52:18.155243+00:00",
@@ -4844,7 +4863,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD868D6DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.6398487,
     "longitude": -73.5990987,
     "first_seen": "2026-09-25T16:22:29.450724+00:00",
@@ -4905,7 +4924,7 @@
     "latitude": 45.5352845,
     "longitude": -73.5946373,
     "first_seen": "2026-09-10T10:27:21.326115+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4920,7 +4939,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA40D82BDDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5548826,
     "longitude": -73.5827385,
     "first_seen": "2026-09-24T16:22:38.288475+00:00",
@@ -4939,11 +4958,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA221AF3DDDDDDDDDD1&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5696728,
     "longitude": -73.6573295,
     "first_seen": "2026-09-21T11:48:19.985285+00:00",
-    "last_seen": "2026-09-23T10:39:26.876789+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -4996,7 +5015,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE35E4D1DDDDDDDDDD0&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5321264,
     "longitude": -73.6116753,
     "first_seen": "2026-09-25T16:22:29.450724+00:00",
@@ -5034,7 +5053,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4C0C4ADDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5617106,
     "longitude": -73.57376,
     "first_seen": "2026-07-27T19:19:41.110714+00:00",
@@ -5114,7 +5133,7 @@
     "latitude": 45.5613617,
     "longitude": -73.5776159,
     "first_seen": "2026-08-01T08:12:32.406810+00:00",
-    "last_seen": "2026-09-25T16:22:29.450724+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -5186,11 +5205,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DAD1CD34DDDDDDDDDDA&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5655376,
     "longitude": -73.5837586,
     "first_seen": "2026-07-10T09:26:22.813984+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -5205,11 +5224,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA19BA2EDDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5660927,
     "longitude": -73.5855595,
     "first_seen": "2026-08-29T20:19:09.793041+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -5262,7 +5281,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA16EAA2DDDDDDDDDD4&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.564833,
     "longitude": -73.5848487,
     "first_seen": "2026-07-08T13:51:40.022000+00:00",
@@ -5414,11 +5433,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE53ECA3DDDDDDDDDDC&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5485657,
     "longitude": -73.6311278,
     "first_seen": "2026-09-25T03:06:41.078648+00:00",
-    "last_seen": "2026-09-25T03:06:41.078648+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -5433,7 +5452,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4CE11BDDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5927944,
     "longitude": -73.566297,
     "first_seen": "2026-09-25T03:06:41.078648+00:00",
@@ -5452,7 +5471,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7C8D0CDDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5512469,
     "longitude": -73.5510898,
     "first_seen": "2026-09-09T20:18:54.911175+00:00",
@@ -5471,7 +5490,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5DFB4EDDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": 45.5565075,
     "longitude": -73.5633731,
     "first_seen": "2026-09-01T20:26:15.567031+00:00",
@@ -5490,11 +5509,30 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1FB93DDDDDDDDDDDE&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5449677,
     "longitude": -73.582816,
     "first_seen": "2026-09-23T10:39:26.876789+00:00",
-    "last_seen": "2026-09-23T10:39:26.876789+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
+  },
+  {
+    "source": "centris",
+    "url": "https://www.centris.ca/en/triplexes~for-sale~montreal-rosemont-la-petite-patrie/16776269",
+    "title": "Triplex for sale",
+    "price": 850000.0,
+    "address": "6553 - 6557, Avenue Casgrain        Montréal (Rosemont/La Petite-Patrie)",
+    "neighborhood": "Rosemont-La Petite-Patrie",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 0.0,
+    "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA1864E2DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
+    "description": "",
+    "has_terrace": false,
+    "is_active": true,
+    "latitude": 45.5323526,
+    "longitude": -73.6094327,
+    "first_seen": "2026-09-25T21:00:59.699712+00:00",
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -5509,7 +5547,7 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE5897FBDDDDDDDDDDD&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": true,
+    "is_active": false,
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-09-21T21:36:52.464502+00:00",
@@ -5547,11 +5585,11 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DE7960C5DDDDDDDDDDF&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": null,
     "longitude": null,
     "first_seen": "2026-09-21T17:43:57.600990+00:00",
-    "last_seen": "2026-09-25T10:59:54.222888+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   },
   {
     "source": "centris",
@@ -5585,10 +5623,10 @@
     "image_url": "https://mspublic.centris.ca/media.ashx?id=ADDD250DA4998A2DDDDDDDDDD2&t=pi&w=320&h=240&sm=c",
     "description": "",
     "has_terrace": false,
-    "is_active": false,
+    "is_active": true,
     "latitude": 45.5463275,
     "longitude": -73.5783881,
     "first_seen": "2026-09-13T15:30:15.326391+00:00",
-    "last_seen": "2026-09-24T02:50:17.048731+00:00"
+    "last_seen": "2026-09-25T21:00:59.699712+00:00"
   }
 ]
